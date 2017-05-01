@@ -1,0 +1,211 @@
+/*
+Boilerplate - used to override the browser and set new defaults
+*/
+html, body, div, p, a, h1, h2, img, ul, ol, li {
+  max-width: 100%;
+  z-index: 1;
+  list-style-type: none;
+  margin:0;
+  padding:0;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #333;
+}
+
+body {
+  background-color: #000;
+}
+
+/*
+The Left Panel and its Parts
+*/
+#leftPanel {
+  width:20%;
+  float:left;
+  height:100%;
+  position:fixed;
+  background-color: #fff;
+}
+
+#leftPanel > div:first-of-type {
+  margin: 0 12%;
+  padding: 20% 0;
+}
+
+ul.nav-menu {
+  border-bottom: 1px solid rgba(51,51,51,0.1);
+}
+.nav-menu li {
+  border-top: 1px solid rgba(51,51,51,0.1);
+}
+
+#leftPanel .nav-menu a {
+  margin: 5% 5% 5% 20%;
+  display: block;
+}
+
+#title h1 {
+  font-weight: 400;
+  line-height: 0.9em;
+}
+
+#title p {
+  margin-top:8px;
+  color: #777;
+}
+
+#leftPanel p {
+  margin: 5% 5% 5% 10%;
+}
+
+
+
+
+/*
+The Central Page and its Parts
+*/
+#main {
+  width:80%;
+  margin-left:20%;
+  height:0px
+}
+
+/*The Main Nav Header*/
+#header {
+  background-color:#fff;
+}
+
+#header>ul>li:last-of-type {
+  border-right: 1px solid rgba(51,51,51,0.1)
+}
+#header>ul>li {
+  border-left: 1px solid rgba(51,51,51,0.1)
+}
+#header ul li {
+  display:inline-block;
+  width:10%;
+  text-align: center;
+  padding:20px;
+  position: relative;
+}
+
+/*For disappearing drop-down menus*/
+ul.sub-menu {
+  position: absolute;
+  z-index: 99;
+  visibility: hidden;
+  background-color: #fff;
+  top:100%;
+  left:0px;
+  /*box-shadow and fade effects*/
+  box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+}
+
+ul.sub-menu {
+  -moz-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+}
+
+li:hover ul.sub-menu {
+  visibility: visible;
+}
+
+#header ul.sub-menu li {
+  display:block;
+  min-width:200%;
+  text-align: left;
+  border-top: 1px solid rgba(51,51,51,0.1);
+  padding:0;
+  background-color: #fff;
+}
+ul.sub-menu a {
+  width:100%;
+  padding: 15px 15px 15px;
+  display: block;
+}
+
+/*The Container of the Main Area*/
+#container {
+  margin-top: 4px;
+}
+
+/*For the Page Area*/
+.entry, #map-page {
+  background-color: #fff;
+  margin-left:4px;
+  margin-bottom:4px;
+  background-image: url('http://www.oldbaileyonline.org/static/images/trial_scene_large.jpg');
+  background-size: cover;
+}
+
+.entry {
+  overflow: hidden;
+  width: 24.5%;
+  float: left;
+}
+
+a.post-thumbnail {
+  padding: 15px;
+  height:200px;
+  overflow: hidden;
+  display: block;
+}
+
+.entry-text {
+  opacity: 0.8;
+  background-color: #fff;
+  padding: 10px 20px;
+  height:200px;
+}
+
+.entry-text h2 {
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+p.entry-content {
+  margin-top:10px;
+}
+
+p {font-size:15px;}
+
+a {
+  text-decoration: none;
+}
+
+p a {text-decoration: underline;}
+
+a:hover {
+  color:orange;
+}
+
+.empty {
+  height:450px;
+}
+
+/*For the Maps*/
+#map-page {
+  width:89.5%;
+  height:93vh;
+  padding:5% 10% 5% 0%;
+}
+
+#map {
+  padding-top:10%;
+  height:50%;
+  width:70%;
+  margin: auto;
+  border: 4px solid white;
+  z-index: 0;
+}
+
+.gm-style-iw {
+  background-color:#aaa;
+  padding:10px;
+  text-align:center;
+  border: 1px solid black;
+}
+
+.gm-style-iw>div>div>div>div:first-of-type {
+  color:black;
+  padding:6px 0;
+}
