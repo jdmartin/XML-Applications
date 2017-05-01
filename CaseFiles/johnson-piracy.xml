@@ -1,0 +1,538 @@
+<!-- © 2003-2008 Old Bailey Proceedings Online -->
+<TEI.2>
+<text>
+<body>
+<div0 id="17370224" type="sessionsPaper" fragment="yes">
+<div1 type="trialAccount" id="t17370224-2">
+<xptr type="pageFacsimile" doc="173702240011"/>
+<xptr type="preceedingDiv" divtype="trialAccount" id="t17370224-1"/>
+<xptr type="followingDiv" divtype="punishmentSummary" id="s17370224-1"/>
+<interp inst="t17370224-2" type="collection" value="BAILEY"/>
+<interp inst="t17370224-2" type="year" value="1737"/>
+<interp inst="t17370224-2" type="uri" value="sessionsPapers/17370224"/>
+<interp inst="t17370224-2" type="date" value="17370224"/>
+<join result="criminalCharge" id="t17370224-2-off17-c93" targOrder="Y" targets="t17370224-2-defend96 t17370224-2-off17 t17370224-2-verdict22"/>
+<join result="criminalCharge" id="t17370224-2-off17-c94" targOrder="Y" targets="t17370224-2-defend98 t17370224-2-off17 t17370224-2-verdict23"/>
+<join result="criminalCharge" id="t17370224-2-off17-c95" targOrder="Y" targets="t17370224-2-defend100 t17370224-2-off17 t17370224-2-verdict24"/>
+<join result="criminalCharge" id="t17370224-2-off17-c96" targOrder="Y" targets="t17370224-2-defend102 t17370224-2-off17 t17370224-2-verdict24"/>
+<join result="criminalCharge" id="t17370224-2-off17-c97" targOrder="Y" targets="t17370224-2-defend104 t17370224-2-off17 t17370224-2-verdict24"/>
+<join result="criminalCharge" id="t17370224-2-off17-c98" targOrder="Y" targets="t17370224-2-defend106 t17370224-2-off17 t17370224-2-verdict24"/>
+<join result="criminalCharge" id="t17370224-2-off17-c93" targOrder="Y" targets="t17370224-2-defend96 t17370224-2-off17 t17370224-2-verdict22"/>
+<join result="criminalCharge" id="t17370224-2-off17-c94" targOrder="Y" targets="t17370224-2-defend98 t17370224-2-off17 t17370224-2-verdict22"/>
+<join result="criminalCharge" id="t17370224-2-off17-c95" targOrder="Y" targets="t17370224-2-defend100 t17370224-2-off17 t17370224-2-verdict22"/>
+<join result="criminalCharge" id="t17370224-2-off17-c96" targOrder="Y" targets="t17370224-2-defend102 t17370224-2-off17 t17370224-2-verdict22"/>
+<join result="criminalCharge" id="t17370224-2-off17-c97" targOrder="Y" targets="t17370224-2-defend104 t17370224-2-off17 t17370224-2-verdict22"/>
+<join result="criminalCharge" id="t17370224-2-off17-c98" targOrder="Y" targets="t17370224-2-defend106 t17370224-2-off17 t17370224-2-verdict22"/>
+<join result="criminalCharge" id="t17370224-2-off25-c93" targOrder="Y" targets="t17370224-2-defend96 t17370224-2-off25 t17370224-2-verdict22"/>
+<join result="criminalCharge" id="t17370224-2-off25-c94" targOrder="Y" targets="t17370224-2-defend98 t17370224-2-off25 t17370224-2-verdict23"/>
+<join result="criminalCharge" id="t17370224-2-off25-c95" targOrder="Y" targets="t17370224-2-defend100 t17370224-2-off25 t17370224-2-verdict24"/>
+<p>
+<xptr type="pageFacsimile" doc="173702240012"/>
+<persName id="t17370224-2-defend96" type="defendantName"> Edward Johnson
+<interp inst="t17370224-2-defend96" type="surname" value="Johnson"/>
+<interp inst="t17370224-2-defend96" type="given" value="Edward"/>
+<interp inst="t17370224-2-defend96" type="gender" value="male"/> </persName> , late of London,
+<rs id="t17370224-2-deflabel11" type="occupation">Mariner</rs>
+<join result="persNameOccupation" targOrder="Y" targets="t17370224-2-defend96 t17370224-2-deflabel11"/>;
+<persName id="t17370224-2-defend98" type="defendantName"> Nicholas Williams
+<interp inst="t17370224-2-defend98" type="surname" value="Williams"/>
+<interp inst="t17370224-2-defend98" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-defend98" type="gender" value="male"/> </persName> , late of the same Place,
+<rs id="t17370224-2-deflabel12" type="occupation">Mariner</rs>
+<join result="persNameOccupation" targOrder="Y" targets="t17370224-2-defend98 t17370224-2-deflabel12"/>;
+<persName id="t17370224-2-defend100" type="defendantName"> LawrenceSenett
+<interp inst="t17370224-2-defend100" type="given" value="LawrenceSenett"/>
+<interp inst="t17370224-2-defend100" type="gender" value="male"/> </persName> , late of the same,
+<rs id="t17370224-2-deflabel13" type="occupation">Mariner</rs>
+<join result="persNameOccupation" targOrder="Y" targets="t17370224-2-defend100 t17370224-2-deflabel13"/>;
+<persName id="t17370224-2-defend102" type="defendantName"> Nicholas Wolf
+<interp inst="t17370224-2-defend102" type="surname" value="Wolf"/>
+<interp inst="t17370224-2-defend102" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-defend102" type="gender" value="male"/> </persName> , late of the same,
+<rs id="t17370224-2-deflabel14" type="occupation">Mariner</rs>
+<join result="persNameOccupation" targOrder="Y" targets="t17370224-2-defend102 t17370224-2-deflabel14"/>;
+<persName id="t17370224-2-defend104" type="defendantName"> Pierce Butler
+<interp inst="t17370224-2-defend104" type="surname" value="Butler"/>
+<interp inst="t17370224-2-defend104" type="given" value="Pierce"/>
+<interp inst="t17370224-2-defend104" type="gender" value="male"/> </persName> , late of the same,
+<rs id="t17370224-2-deflabel15" type="occupation">Mariner</rs>
+<join result="persNameOccupation" targOrder="Y" targets="t17370224-2-defend104 t17370224-2-deflabel15"/>; and
+<persName id="t17370224-2-defend106" type="defendantName"> John Bryan , otherwise
+<rs id="t17370224-2-alias-1" type="alias">
+<join result="nameAlias" targOrder="Y" targets="t17370224-2-defend106 t17370224-2-alias-1"/>O'Bryan</rs>
+<interp inst="t17370224-2-defend106" type="surname" value="Bryan"/>
+<interp inst="t17370224-2-defend106" type="given" value="John"/>
+<interp inst="t17370224-2-defend106" type="gender" value="male"/> </persName> , late of the same,
+<rs id="t17370224-2-deflabel16" type="occupation">Mariner</rs>
+<join result="persNameOccupation" targOrder="Y" targets="t17370224-2-defend106 t17370224-2-deflabel16"/>; you stand indicted,
+<rs id="t17370224-2-off17" type="offenceDescription">
+<interp inst="t17370224-2-off17" type="offenceCategory" value="kill"/>
+<interp inst="t17370224-2-off17" type="offenceSubcategory" value="murder"/> for that you, not having God before your Eyes, but being moved and seduced by the Instigation of the Devil, on the
+<rs id="t17370224-2-cd18" type="crimeDate">7th of September, in the Tenth Year of his Majesty's Reign</rs>
+<join result="offenceCrimeDate" targOrder="Y" targets="t17370224-2-off17 t17370224-2-cd18"/>
+<join result="offenceCrimeDate" targOrder="Y" targets="t17370224-2-off25 t17370224-2-cd18"/>, you, the said
+<persName id="t17370224-2-person107"> Edward Johnson
+<interp inst="t17370224-2-person107" type="surname" value="Johnson"/>
+<interp inst="t17370224-2-person107" type="given" value="Edward"/>
+<interp inst="t17370224-2-person107" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person108"> Nicholas Williams
+<interp inst="t17370224-2-person108" type="surname" value="Williams"/>
+<interp inst="t17370224-2-person108" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person108" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person109"> Lawrence Senett
+<interp inst="t17370224-2-person109" type="surname" value="Senett"/>
+<interp inst="t17370224-2-person109" type="given" value="Lawrence"/>
+<interp inst="t17370224-2-person109" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person110"> Nicholas Wolf
+<interp inst="t17370224-2-person110" type="surname" value="Wolf"/>
+<interp inst="t17370224-2-person110" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person110" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person111"> Pierce Butler
+<interp inst="t17370224-2-person111" type="surname" value="Butler"/>
+<interp inst="t17370224-2-person111" type="given" value="Pierce"/>
+<interp inst="t17370224-2-person111" type="gender" value="male"/> </persName> , and
+<persName id="t17370224-2-person112"> John Bryan
+<interp inst="t17370224-2-person112" type="surname" value="Bryan"/>
+<interp inst="t17370224-2-person112" type="given" value="John"/>
+<interp inst="t17370224-2-person112" type="gender" value="male"/> </persName> , otherwise O'Bryan, then being Mariners of, and in a certain Ship, called the
+<placeName id="t17370224-2-crimeloc19">Dove Brigantine</placeName>
+<interp inst="t17370224-2-crimeloc19" type="placeName" value="Dove Brigantine"/>
+<interp inst="t17370224-2-crimeloc19" type="type" value="crimeLocation"/>
+<join result="offencePlace" targOrder="Y" targets="t17370224-2-off17 t17370224-2-crimeloc19"/>
+<join result="offencePlace" targOrder="Y" targets="t17370224-2-off25 t17370224-2-crimeloc19"/> of which one
+<persName id="t17370224-2-victim114" type="victimName"> Benjamin Hawes
+<interp inst="t17370224-2-victim114" type="surname" value="Hawes"/>
+<interp inst="t17370224-2-victim114" type="given" value="Benjamin"/>
+<interp inst="t17370224-2-victim114" type="gender" value="male"/> </persName> , a Subject of our Lord the King, was Master, with Force and Arms, on the High Seas, and within the Jurisdiction of the Admiralty of England, about half a League distant from
+<rs id="t17370224-2-cd20" type="crimeDate">Leghorn in Italy</rs>
+<join result="offenceCrimeDate" targOrder="Y" targets="t17370224-2-off17 t17370224-2-cd20"/>
+<join result="offenceCrimeDate" targOrder="Y" targets="t17370224-2-off25 t17370224-2-cd20"/>, in Parts beyond the Seas, in and upon the said
+<persName id="t17370224-2-person115"> Benjamin Hawes
+<interp inst="t17370224-2-person115" type="surname" value="Hawes"/>
+<interp inst="t17370224-2-person115" type="given" value="Benjamin"/>
+<interp inst="t17370224-2-person115" type="gender" value="male"/> </persName> , then being Master as aforesaid, in the Peace of God, and in the said Ship, feloniously, wilfully, and of your Malice aforethought, did make an Assault, and that you Edward Johnson, with a certain Knife-made of Iron and Steel, which you then and there held in your Right Hand, in and upon the Left Part of the Breast of the said
+<persName id="t17370224-2-person116"> Benjamin Hawes
+<interp inst="t17370224-2-person116" type="surname" value="Hawes"/>
+<interp inst="t17370224-2-person116" type="given" value="Benjamin"/>
+<interp inst="t17370224-2-person116" type="gender" value="male"/> </persName> , near the Left Pap, then and there on the High Seas, and within the Jurisdiction aforesaid, feloniously, wilfully, and of your Malice aforethought, did strike and stab, giving to him then and there on the High Seas, and within the Jurisdiction aforesaid, on the Left Part of the Breast, and near the Right Pap as aforesaid, a mortal Wound of the Length of one Inch, and the Depth of three Inches, of which mortal Wound, then and there on the High Seas, and within the Jurisdiction aforesaid, he instantly died. And the Indictment further charges, that you Nicholas Williams,
+<persName id="t17370224-2-person117"> Lawrence Senett
+<interp inst="t17370224-2-person117" type="surname" value="Senett"/>
+<interp inst="t17370224-2-person117" type="given" value="Lawrence"/>
+<interp inst="t17370224-2-person117" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person118"> Nicholas Wolf
+<interp inst="t17370224-2-person118" type="surname" value="Wolf"/>
+<interp inst="t17370224-2-person118" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person118" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person119"> Pierce Butler
+<interp inst="t17370224-2-person119" type="surname" value="Butler"/>
+<interp inst="t17370224-2-person119" type="given" value="Pierce"/>
+<interp inst="t17370224-2-person119" type="gender" value="male"/> </persName> , and
+<persName id="t17370224-2-person120"> John Bryan
+<interp inst="t17370224-2-person120" type="surname" value="Bryan"/>
+<interp inst="t17370224-2-person120" type="given" value="John"/>
+<interp inst="t17370224-2-person120" type="gender" value="male"/> </persName> , otherwise O'Bryan, at the Time of committing the said Felony and Murder, feloniously, wilfully, and of your Malice aforethought, were present, aiding, abetting, assisting and comforting the said
+<persName id="t17370224-2-person121"> Edward Johnson
+<interp inst="t17370224-2-person121" type="surname" value="Johnson"/>
+<interp inst="t17370224-2-person121" type="given" value="Edward"/>
+<interp inst="t17370224-2-person121" type="gender" value="male"/> </persName> , him the said Benjamin to kill and Murder: And so the Indictment says, that you Edward Johnson,
+<persName id="t17370224-2-person122"> Nicholas Williams
+<interp inst="t17370224-2-person122" type="surname" value="Williams"/>
+<interp inst="t17370224-2-person122" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person122" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person123"> Lawrence Senett
+<interp inst="t17370224-2-person123" type="surname" value="Senett"/>
+<interp inst="t17370224-2-person123" type="given" value="Lawrence"/>
+<interp inst="t17370224-2-person123" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person124"> Nicholas Wolf
+<interp inst="t17370224-2-person124" type="surname" value="Wolf"/>
+<interp inst="t17370224-2-person124" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person124" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person125"> Pierce Butler
+<interp inst="t17370224-2-person125" type="surname" value="Butler"/>
+<interp inst="t17370224-2-person125" type="given" value="Pierce"/>
+<interp inst="t17370224-2-person125" type="gender" value="male"/> </persName> , and
+<persName id="t17370224-2-person126"> John Bryan
+<interp inst="t17370224-2-person126" type="surname" value="Bryan"/>
+<interp inst="t17370224-2-person126" type="given" value="John"/>
+<interp inst="t17370224-2-person126" type="gender" value="male"/> </persName> , otherwise O'Bryan, him the said
+<persName id="t17370224-2-person127"> Benjamin Hawes
+<interp inst="t17370224-2-person127" type="surname" value="Hawes"/>
+<interp inst="t17370224-2-person127" type="given" value="Benjamin"/>
+<interp inst="t17370224-2-person127" type="gender" value="male"/> </persName> , in Manner and Form as aforesaid, feloniously, wilfully, &c. did kill and murder, against the Peace of our Soveraign Lord the King, his Crown and Dignity </rs>.</p>
+<p>[To this Indictment the Prisoners pleaded, Not guilty.]</p>
+<p>On this Indictment the Prisoners have been arraigned, and on their Arraignment have severally pleaded Not guilty; and for Trial, have put themselves upon God and their Country, whose Country you are. Your Charge is, to enquire whether they, or any of them, are guilty of this Felony and Murder, or not guilty; if you find them guilty, you are to enquire what Goods and Chattels they had, at the Time the Felony was committed; if you find them not guilty, you are to enquire whether they fled for it; if you find they fled for it, you are to enquire of their Goods and Chattels, as if you had found them guilty; if you find they did not fly for it, say so, and no more, and hear your Evidence.</p>
+<p>Counsel. My Lords, and you Gentlemen of the Jury, this is an Indictment against
+<persName id="t17370224-2-person128"> Edward Johnson
+<interp inst="t17370224-2-person128" type="surname" value="Johnson"/>
+<interp inst="t17370224-2-person128" type="given" value="Edward"/>
+<interp inst="t17370224-2-person128" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person129"> Nicholas Williams
+<interp inst="t17370224-2-person129" type="surname" value="Williams"/>
+<interp inst="t17370224-2-person129" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person129" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person130"> Lawrence Senett
+<interp inst="t17370224-2-person130" type="surname" value="Senett"/>
+<interp inst="t17370224-2-person130" type="given" value="Lawrence"/>
+<interp inst="t17370224-2-person130" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person131"> Nicholas Wolf
+<interp inst="t17370224-2-person131" type="surname" value="Wolf"/>
+<interp inst="t17370224-2-person131" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person131" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person132"> Pierce Butler
+<interp inst="t17370224-2-person132" type="surname" value="Butler"/>
+<interp inst="t17370224-2-person132" type="given" value="Pierce"/>
+<interp inst="t17370224-2-person132" type="gender" value="male"/> </persName> , and
+<persName id="t17370224-2-person133"> John Bryan
+<interp inst="t17370224-2-person133" type="surname" value="Bryan"/>
+<interp inst="t17370224-2-person133" type="given" value="John"/>
+<interp inst="t17370224-2-person133" type="gender" value="male"/> </persName> , otherwise O'Bryan, the Prisoners at the Bar, for Murder. The Indictment sets forth, that the Prisoners being Mariners in a Ship called the Dove, about a League distant from Leghorn in Italy, in Parts beyond the Seas, and within the Jurisdiction of the Admiralty of England, on the 7th of September, in the Tenth Years of his Majesty's Reign, with Force and Arms, on the High Seas, and within the Jurisdiction aforesaid, on
+<persName id="t17370224-2-person134"> Benjamin Hawes
+<interp inst="t17370224-2-person134" type="surname" value="Hawes"/>
+<interp inst="t17370224-2-person134" type="given" value="Benjamin"/>
+<interp inst="t17370224-2-person134" type="gender" value="male"/> </persName> , then Master of the said Ship, did make an Assault; and that
+<persName id="t17370224-2-person135"> Edward Johnson
+<interp inst="t17370224-2-person135" type="surname" value="Johnson"/>
+<interp inst="t17370224-2-person135" type="given" value="Edward"/>
+<interp inst="t17370224-2-person135" type="gender" value="male"/> </persName> , with a Knife made of Iron and Steel, which he held in his Right Hand, the said Benjamin Hawes, feloniously, wilfully, and of his Malice aforethought, did strike and stab, giving him the said Benjamin, a mortal Wound of the Length of one Inch, and the Depth of three Inches, of which mortal Wound he then and there died; and so he, the said
+<persName id="t17370224-2-person136"> Edward Johnson
+<interp inst="t17370224-2-person136" type="surname" value="Johnson"/>
+<interp inst="t17370224-2-person136" type="given" value="Edward"/>
+<interp inst="t17370224-2-person136" type="gender" value="male"/> </persName> , him, the said Benjamin, did kill and murder. And the Indictment further charges, that
+<persName id="t17370224-2-person137"> Nicholas Williams
+<interp inst="t17370224-2-person137" type="surname" value="Williams"/>
+<interp inst="t17370224-2-person137" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person137" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person138"> Lawrence Senett
+<interp inst="t17370224-2-person138" type="surname" value="Senett"/>
+<interp inst="t17370224-2-person138" type="given" value="Lawrence"/>
+<interp inst="t17370224-2-person138" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person139"> Nicholas Wolf
+<interp inst="t17370224-2-person139" type="surname" value="Wolf"/>
+<interp inst="t17370224-2-person139" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person139" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person140"> Pierce Butler
+<interp inst="t17370224-2-person140" type="surname" value="Butler"/>
+<interp inst="t17370224-2-person140" type="given" value="Pierce"/>
+<interp inst="t17370224-2-person140" type="gender" value="male"/> </persName> , and
+<persName id="t17370224-2-person141"> John Bryan
+<interp inst="t17370224-2-person141" type="surname" value="Bryan"/>
+<interp inst="t17370224-2-person141" type="given" value="John"/>
+<interp inst="t17370224-2-person141" type="gender" value="male"/> </persName> , otherwise O'Bryan, were present, aiding, abetting, assisting, and comforting the said
+<persName id="t17370224-2-person142"> Edward Johnson
+<interp inst="t17370224-2-person142" type="surname" value="Johnson"/>
+<interp inst="t17370224-2-person142" type="given" value="Edward"/>
+<interp inst="t17370224-2-person142" type="gender" value="male"/> </persName> , at the Time of committing the said Felony and Murder. The Prisoners have pleaded, Not guilty, if we prove they are guilty, we doubt not but you will find them so.</p>
+<p>Counsel. My Lords, and Gentlemen of the Jury: The Prisoners at the Bar, are indicted for the Murder of Benjamin Hawes,
+<rs id="t17370224-2-viclabel21" type="occupation">Master of the Dove</rs>
+<join result="persNameOccupation" targOrder="Y" targets="t17370224-2-victim114 t17370224-2-viclabel21"/> Brigantine, this was an English Ship, which Sail'd from Harwich in the Year 1730, on trading Voyages,
+<xptr type="pageFacsimile" doc="173702240013"/> towards the Mediterranean, and other Parts. The Nature of these trading Voyages is such, that when the Mariners have made a Port of Delivery, they claim being paid their Wages and their Discharge: This Custom laid the Captain under a Necessity, several Times to change his Crew; and at the Time, the Fact we charge against the Prisoners was committed, there was no Person on board beside themselves, except one Walker, the Captain's Apprentice. In June 1736, the Ship was at Marseilles, mann'd with three Italians, and one French Man, and the Master's Apprentice, and there the Prisoner Williams was shipp'd as Captain's Mate. From Marseilles they proceeded to Leghorn; at Leghorn (it being the Usage to discharge the Crew) the Italians and the French Man were discharg'd, and there he waited for a Cargo to take on board for England. When he had been at Leghorn about six Weeks, Johnson and one Derrick, a Dutch Man, were hired as foremast Men, and there was one O Mara came on board there as a Passenger; Bryan, Wolf, and Butler came on board unknown to the Captain, who having taken in his Cargo (which consisted of Sugars, Tobacco, and other Goods, consigned to Messina and Ancona ) he came on board the 7th of September 1736, in order to prepare for Sailing; the Time he came on board was about nine or ten o'Clock at Night, and according to his Order, the Vessel was got ready to sail; but it happen'd at that Time, there was but a very little Wind; so the Master order'd the Mate, when the Wind came off the Land, he should heave Anchor; for though there was but little Wind, yet (it seems) there is a Breeze comes off the Land at some Seasons. When the Captain had given proper Orders, he retired to his Cabbin, to take his Rest: And about half an Hour, or three Quarters of an Hour after his - Retirement, the Boy Walker, his Apprentice (who had been on board the Ship from the Time of her out-setting) he heard Groans and Shrieks as of a dying Man, and immediately saw the Prisoner Johnson coming up the Companion Ladder with a Knife in his Hand and bloody. The Boy being astonished, asked Williams the Mate about the Noise, and enquired what was the Matter. At this Time, he found Johnson, Senett, and the Dutchman, at the Windlace: Senett had a Handspike in his Hand, and he put it into the Windlace on the one Side, and the Dutch man put another into the other Side, and Johnson was casting off the Stopper. These are Terms of Art, and we mention them to express Acts used in weighing Anchor; and these shew they were then weighing Anchor. The Boy was surprized at what they were doing, and asked them why they heav'd Anchor when there was no Wind stirring to assist them, but he finding them resolved to Sail, he thought proper to get every Thing in Readiness; so he went down into the Captain's Cabbin for his Shoes. He found the Cabbin door open, and the Captain, bloody and wounded in such a Manner, as you will best hear from the Evidence himself. He went immediately to the Prisoner Williams (the Mate) and told him the Captain was kill'd: Williams said, the Lord have mercy upon me! and used Expressions, - whether they denoted Guilt, or were only Words, the Effect of Compassion, must be left to you; but the Boy having seen Johnson come up bloody, he desired the Mate to lash him to the Ring-bolts, supposing him to have committed the Murder; but Williams instead of doing this, went immediately to Johnson and talked with him, and then Johnson went and seized the Boy, to prevent his discovering the Iniquity they had committed, and swore he would kill him too. The Boy had Resolution enough to strike him on the Arms, so he got clear, and ran to the Gang way of the Ship, and Johnson call'd out kill him, kill him, and he apprehending Danger, jumped over-board into the Sea, and Johnson threw his bloody murdering Knife after him into the Sea, but it happened only to cut his Trousers. The Boy was no sooner in the Sea, but they were for pursuing him, and they mann'd out the Boat to catch him, and prevent his making a Discovery: They row'd after him, but could not take him; he swam to some Ships that lay in the Mole at Leghorn, and discover'd the Murder: Upon which several Boats, from the Merchant-Ships in the Mole of Leghorn, were mann'd out, and they seized the Prisoners. Derrick the Dutchman was taken among them, but he dy'd in his Passage. When the Company in these Boats boarded the Ship, they found the Captain dead, and there were Disputes among the Prisoners; Williams said, it signify'd nothing to deny the Murder, for Johnson had done it. Senett, Johnson, and Butler had hid themselves in the Hold of the Ship, under some Hides. This was a concerted Matter, to put the Captain out of the Way, - to kill him, in order to secure the Ship to themselves. I will not touch upon the Piracy, that will come under your Consideration hereafter. The Evidence of their Acting all in Conjunction, will be strong against them, and in Point of Law, they are all Principals in Murder, where all concur in Murdering a Subject of the Crown. 'Tis a melancholy Case; and I had rather the Circumstances should come from the Witnesses themselves, than open them
+<xptr type="pageFacsimile" doc="173702240014"/> my self, therefore I shall leave them to your Consideration.</p>
+<p>
+<persName id="t17370224-2-person143"> Richard Walker
+<interp inst="t17370224-2-person143" type="surname" value="Walker"/>
+<interp inst="t17370224-2-person143" type="given" value="Richard"/>
+<interp inst="t17370224-2-person143" type="gender" value="male"/> </persName> was call'd and sworn.</p>
+<p>Counsel. Do you know the Vessel call'd the Dove Brigantine:</p>
+<p>Walker. Yes; I belonged to her nine Years:
+<persName id="t17370224-2-person144"> Benjamin Hawes
+<interp inst="t17370224-2-person144" type="surname" value="Hawes"/>
+<interp inst="t17370224-2-person144" type="given" value="Benjamin"/>
+<interp inst="t17370224-2-person144" type="gender" value="male"/> </persName> was Master.</p>
+<p>Counsel. When did you go from England in her last?</p>
+<p>Walker. About six Years ago: We went from Harwich and Falmouth: I was the Captain's Apprentice, and was to go with him all his Voyages for a certain Term of Years.</p>
+<p>Counsel. Where was you in June last?</p>
+<p>Walker. At Leghorn.</p>
+<p>Counsel. Who had you on board at that Time?</p>
+<p>Walker. Williams was Mate, and Johnson was a Mariner; Senett was a Mariner likewise, and one Derrick a Dutchman was a Mariner too.</p>
+<p>Counsel. Had you no one else on Board?</p>
+<p>Walker. Yes; we had one O Mara a Passenger on board, and none else, but the Captain and my self.</p>
+<p>Counsel. When was you to sail from Leghorn?</p>
+<p>Walker. We were to sail from thence the 7th of September.</p>
+<p>Counsel. Were the rest of the Prisoners at the Bar on Board?</p>
+<p>Walker. I did not see them then. The Master gave Directions on the 7th of September, that as soon as the Wind came off the Land, they should heave the Anchor; and then he went down into his own Cabbin, and went to sleep, and I went and lay down on the Quarter-Deck, over his Head, and went to sleep likewise.</p>
+<p>Counsel. What follow'd upon that?</p>
+<p>Walker. I heard a shrieking and groaning, which 'wak'd me.</p>
+<p>Counsel. What Time o'Night was this?</p>
+<p>Walker. I believe it was half an Hour past Ten when I heard it.</p>
+<p>Counsel. What sort of a Noise was it?</p>
+<p>Walker. Like the Groans of a dying Man. I could not then tell what it was; so I got up, and was coming round the Companion, and I met Johnson with a Knife in his Hand, and his Right Hand was all bloody. I asked him why he was bloody, and went down directly to see what was the Matter. I call'd Williams three times by Name, and he ask'd me what was the Matter? I ask'd him if he was hurt; he said, No. I desired he would let me look at him; he said, may be the Captain is dreaming.</p>
+<p>Counsel. Were they heaving the Anchor at this Time?</p>
+<p>Walker. Yes; Sennet had put a Handspike into the Windlace on one Side, and the Dutchman had another in the other Side, and Johnson was casting off the Stopper, in order to heave up the Cable. Senett said to Williams, shall we heave up the Anchor? Aye (says he) with all my Heart, Boys - Turn too Lads; heave it up with all my Heart.</p>
+<p>Counsel. What did you say to them?</p>
+<p>Walker. I said, what signifies heaving the Anchor, when the Vessel won't work? Williams said, the Captain had order'd it; and I said, then I will go down for my Shoes: I had locked the Cabbin Door, (single lock'd it) when the Captain went to sleep, and I left the Key in the Door: when I set the Door open, I was frighted at what I saw.</p>
+<p>Counsel. What did you see?</p>
+<p>Walker. I saw the Captain half on the Bed, and half off, all bloody, and he appeared to me to be dead.</p>
+<p>Counsel. What did you do upon this ?</p>
+<p>Walker. I went up upon Deck, and met Williams, and I said Mr. Williams, the Captain is dead; who has kill'd him?</p>
+<p>Counsel. What Answer did he make?</p>
+<p>Walker. Lord have Mercy upon me, says he, I cannot tell. I desired him to take Johnson and lash him to the Ring-bolts, and carry him ashore in the Morning, for, says I, I saw him coming up the Companion Ladder, all bloody.</p>
+<p>Counsel. What Answer did Williams make?</p>
+<p>Walker. None at all, but only went forwards to Johnson, and I follow'd him: Then Johnson took hold of me, and said, G - d d - n you, you Dog, I'll kill you too.</p>
+<p>Counsel. Repeat that again.</p>
+<p>Walker. Johnson, when he took hold of me, said, G - d d - n you, you Dog, I'll kill you too, and he struggled with me, and try'd to take out his Knife; but I gave him a Blow on the Arm, and he let me go; then I jump'd over-board, and as I was going off, Johnson cry'd, d - n the Dog, kill him, kill him, don't let him go; and one of them threw a Knife after me into the Water, and it struck upon my Buttock.</p>
+<p>Counsel. Was Williams upon Deck at the same Time?</p>
+<p>Walker. Yes, but I did not see him do any thing; the Knife that was thrown after me, cut my Trowsers, but not my Flesh.</p>
+<p>Counsel. What follow'd upon your jumping into the Sea?</p>
+<p>
+<xptr type="pageFacsimile" doc="173702240015"/>Walker. They got into the Boat, and row'd after me: Johnson was one who row'd after me, but I did not mind who the others were: I swam, and they follow'd me; but I got to an Italian Settee, and I begg'd of them; for God's Sake, to make them keep off, for they had kill'd my Master, and wanted to kill me. They asked me who the Boat belong to, I told them; then they hal'd the Boat, and Johnson cry'd, Hollo; then the People in the Settee fir'd upon them, and they then gave over the Pursuit, and return'd to the Ship.</p>
+<p>Counsel. Did you see the Ship make any Sail after this?</p>
+<p>Walker. Yes; I saw the Ship go.</p>
+<p>Counsel. Which Way did she go?</p>
+<p>Walker. From the Land.</p>
+<p>Counsel. So the Italians took you on board.</p>
+<p>Walker. Yes, they threw out a Rope and pull'd me up, and examin'd me: I would have had them put off, but they were afraid of being kill'd themselves; so they guarded me into the Mole, put me on board a Ship; and presently there came Boats mann'd and arm'd from other Ships; which went after them and took them: I came home with them; but never had any Conversation with them.</p>
+<p>Counsel. You say you acquainted Williams with your seeing Johnson coming up the Companion Ladder.</p>
+<p>Walker. Yes.</p>
+<p>Counsel. Did he make any Answer to you?</p>
+<p>Walker. No, not at all: but went directly up to Johnson.</p>
+<p>Counsel. Did he offer to seize Johnson?</p>
+<p>Walker. No.</p>
+<p>Counsel. Was there any body could have helped him to have seiz'd Johnson?</p>
+<p>Walker. Yes, Senett; and the rest of the Prisoners; but they none of them offer'd to seize him. Johnson seized me with one Hand, and with the other Hand, he felt in his Pocket for his Knife, and cry'd, Aye, G - d d - n you, you Dog, I'll kill you too; but I struck him a Blow on the Arm, which made him let go, and I jump'd over-board, and he cry'd, Kill the Dog, don't let him jump over-board; but I swam away from them about 800 Yards.</p>
+<p>Counsel. What Place was the Ship bound for, when the Captain was kill'd?</p>
+<p>Walker. For Messina.</p>
+<p>Counsel. What Course did the Ship make after they were discover'd?</p>
+<p>Walker. They steer'd right off the Land.</p>
+<p>Counsel. Was that towards Messina?</p>
+<p>Walker. No.</p>
+<p>Counsel. What Ship took you in?</p>
+<p>Walker. I swam first to an Italian Settee, and was afterwards taken on board the Levant, Capt. Floyd.</p>
+<p>Counsel. What did you observe the other Prisoners do?</p>
+<p>Walker. I was so much 'frighted that I did not mind what they were doing.</p>
+<p>Q. Did you see Wolf there?</p>
+<p>Walker. No; I cannot say whether he was in the Ship at the same Time or not.</p>
+<p>Q. What was Senett doing?</p>
+<p>Walker. I did not see him, after the Captain was kill'd: He was weighing Anchor before I found him kill'd.</p>
+<p>Counsel. When they were weighing Anchor, was there a proper Wind to go on the Voyage?</p>
+<p>Walker. No, there was not.</p>
+<p>Counsel. After you came on shore, and made the Discovery, did you go on Board again?</p>
+<p>Walker. Yes; when the Ship was brought to, I did, when they were made Prisoners.</p>
+<p>Counsel. Did you see the Body of the Captain, after his Death?</p>
+<p>Walker. Yes; there was a Wound 3 Inches and 3 Quarters long, 'athwart his Breast: There was two Wounds, but I put my Hand into the largest, and the Surgeon measur'd it: 'Twas a long Wound, and it went quite thro' his Back, and was an Inch and a half wide there: The great Wound went; om his Breast, quite thro' his Body, and thro' his Back; but there was another smaller Wound here, in this Place, ( pointing to his own Ribs.)</p>
+<p>Counsel. You said you saw Senett, Williams and Johnson; was that after you heard the groaning of the Captain?</p>
+<p>Walker. Yes.</p>
+<p>Q. How long was it after the Fact was committed that the Ship was brought in?</p>
+<p>Walker. 'Twas brought in about 3 Hours after, by several English Boats, which were in the Harbour, and then the Prisoners were taken out of her, and two of them were put on Board one Ship, and two on Board another: They were distributed on board other Ships. Wolf was brought home with me in the Dolphin Man of War.</p>
+<p>Q. What shap'd Knife was it that Johnson had in his Hand?</p>
+<p>Walker. A French Clasp Knife, about eleven Inches long, Handle and all, with a sharp Point; the Blade toward the Bottom was about three Fourths of an Inch broad, and about a quarter of an Inch at the Point: The Handle was longer than the Blade.</p>
+<p>
+<xptr type="pageFacsimile" doc="173702240016"/>Counsel. Do you think the Wound could be made with that Knife?</p>
+<p>Walker. Yes it might.</p>
+<p>Counsel. You say you saw his Hands bloody.</p>
+<p>Walker. Yes.</p>
+<p>Counsel. Was the Knife bloody?</p>
+<p>Walker. I did not observe that: When I saw him, he was shutting it, with both his Hands, and I saw his right Hand bloody. The Knife was found next Morning in the Boat they row'd after me, and in the Hollow of the Handle was all greasy and bloody, and there were Hairs sticking in it.</p>
+<p>Counsel. What sized Man was the Captain?</p>
+<p>Walker. A stout, lusty, fat Man.</p>
+<p>Counsel. Do you believe the Knife you saw in the Boat, was the same you saw in Johnson's Hands?</p>
+<p>Walker. Yes, I am sure 'twas the same.</p>
+<p>Jury. We ask whether he knows how the Knife came into the Boat, because he has mention'd a Knife being thrown after him into the Sea?</p>
+<p>Walker. It was not the Knife that I saw in his Hand, that was thrown after me, but another. Johnson's clasp Knife was found in the Boat, three or four Hours after 'twas brought in with the Ship. I did not see it in the Boat when it first came in.</p>
+<p>Counsel. So you say this Knife was found in the same Boat that Johnson was rowing in, after you.</p>
+<p>Walker. Yes Sir.</p>
+<p>Counsel. What Shape was the Handle of the Knife?</p>
+<p>Walker. At the bottom of the Handle it was roundish; at that Part next the Blade it was flat.</p>
+<p>Counsel. Do you think, that if a Wound was made with the Blade, any Part of the Handle, would go into the Wound?</p>
+<p>Walker. Yes, Sir.</p>
+<p>C. Recollect your selves; would any of you ask the Witness any Questions.</p>
+<p>Johnson. I have no Questions to ask him; he knows nothing of me, nor I of him.</p>
+<p>Williams. I would ask him whether as the Wind was S. W. we did not sail the direct way to Ancona</p>
+<p>Walker. No; 'twas a fine clear Moon-light Night, and all the while I was going in a Boat from the Settee to the Ship, I had Sight of her, and she was steering quite off from the Land.</p>
+<p>Q. How long was it before you got from your own Ship to the Settee?</p>
+<p>Walker. About half a Quarter of an Hour.</p>
+<p>Q. How long was it after you got into the Settee, that you got into an English Vessel?</p>
+<p>Walker. About half an Hour.</p>
+<p>Senett. I observ'd the Witness said, I had a Handspike in the Windlace. The Dutchman came to me, as I was lying on the Forecastle, and he 'wak'd me; I got up and said to Williams, are you going to heave up? No, says Williams there's no Wind. Why, says I, the Dutchman, has wak'd me to heave up; then says Williams, you may go to sleep again. Ask him about my Behaviour in the Ship.</p>
+<p>Walker. He obey'd Command in the Ship, as other Mariners ought to do. He had been about six Weeks on board, when this happened; and was taken in at Leghorn.</p>
+<p>Counsel. Call
+<persName id="t17370224-2-person145"> William O Mara
+<interp inst="t17370224-2-person145" type="surname" value="O Mara"/>
+<interp inst="t17370224-2-person145" type="given" value="William"/>
+<interp inst="t17370224-2-person145" type="gender" value="male"/> </persName> ; who was very Sick, but was sworn.</p>
+<p>Counsel. Do you know the Dove Brigantine?</p>
+<p>O Mara. Yes, I did Sir.</p>
+<p>Counsel. What Time did you come on Board?</p>
+<p>O Mara. Sometime in August 1736, I don't remember the particular Day.</p>
+<p>Counsel. Who was on Board when you came first.</p>
+<p>O Mara. There was Williams; he was the chief Man; he at the Bar there. There was
+<persName id="t17370224-2-person146"> Andrew Downing
+<interp inst="t17370224-2-person146" type="surname" value="Downing"/>
+<interp inst="t17370224-2-person146" type="given" value="Andrew"/>
+<interp inst="t17370224-2-person146" type="gender" value="male"/> </persName> , -
+<persName id="t17370224-2-person147"> Lawrence Senett
+<interp inst="t17370224-2-person147" type="surname" value="Senett"/>
+<interp inst="t17370224-2-person147" type="given" value="Lawrence"/>
+<interp inst="t17370224-2-person147" type="gender" value="male"/> </persName> ; I don't know that Johnson was there: He belonged to the Ship at that Time, but was not concerned in any Business, in the wicked Enterprize they went upon; nor Wolf. Bryan was. Butler was not there at that Time.</p>
+<p>Counsel. Give an Account what pass'd the 7th of September, after that August you speak of, with Relation to the Captain's coming on Board, and ordering the Ship to be put under Sail; tell what pass'd that Night.</p>
+<p>O Mara. I was asleep in the Mate's Cabbin, and Wolf with me. About 11 or 12 I heard a great Groan in the Captain's Cabbin; I said, O! dear Wolf, what is the Matter! G - d d - n thee, says he, canst not sleep, and in about 3 Minutes Time, Walker went down. I heard the Gushes of Blood run from the Orifices, as if a Bung-hole had been made in his Body.</p>
+<p>Counsel. How near did you lye to the Captain?</p>
+<p>O Maria. I lay in the Larboard-side of the Ship, and the Captain's Cabbin was just at my Head, and nothing between us, but a slight Partition. He lay more in the Center of the Ship, than I did</p>
+<p>Counsel. When you heard the Groans and the gushing out of the Blood, what did you do?</p>
+<p>O Maria. Nothing in the World: but then, in about 3 Minutes after, Walker came down and went in, in his Shirt; when he saw the Captain dead, he ran to Williams and said, O! Mr. Williams,
+<xptr type="pageFacsimile" doc="173702240017"/> the Captain's dead, then I heard Johnson say, kill the Dog, kill the Dog, meaning Walker and they had a Jostle together about half a Minute, well, (says I) now the Boy is kill'd and there's no Remedy. In a short Time after this, I heard some body say, - see how naturally the Dog takes the Water.</p>
+<p>Counsel. Do you know any Thing of Senett, or Johnson, or any of the Prisoners endeavouring to weigh Anchor at that Time?</p>
+<p>O Mara. I did not hear any Thing of that to my Knowledge; as soon as the Noise began, they did not stay to get up the Anchor, for they cut the Cable.</p>
+<p>Counsel. Which of them cut the Cable?</p>
+<p>O Mara. Williams did; I was by at the same Time, and saw him cut it with a Hatchet.</p>
+<p>Q. What was the Reason that Williams cut the Cable?</p>
+<p>O Mara. Oh! - the Captain was killed, and he was going Captain.</p>
+<p>Q. How do you know that?</p>
+<p>O. Mara. I have very good Reason to know it. - I myself drew the Articles by which he was constituted, nominated, and appointed so. There were Articles drawn twice, but Downing had nothing to do with them.</p>
+<p>Counsel. Do you know of any Combination among the Prisoners?</p>
+<p>O Mara. I do, - I know it all; I was a Party - concerned myself.</p>
+<p>Counsel. Begin, and give an Account when you first came on board, and what passed between you? What was the Occasion of your first coming on board? Who tempted you on board?</p>
+<p>O Mara.
+<persName id="t17370224-2-person148"> John O Bryan
+<interp inst="t17370224-2-person148" type="surname" value="O Bryan"/>
+<interp inst="t17370224-2-person148" type="given" value="John"/>
+<interp inst="t17370224-2-person148" type="gender" value="male"/> </persName> , one of the Prisoners; he brought me on board, and told me, that I must go no more to my own Ship, for somebody had told Sir
+<persName id="t17370224-2-person149"> Mark Forrester
+<interp inst="t17370224-2-person149" type="surname" value="Forrester"/>
+<interp inst="t17370224-2-person149" type="given" value="Mark"/>
+<interp inst="t17370224-2-person149" type="gender" value="male"/> </persName> , who was the Captain ('twas a Spanish Man of War) that I had given it out, that he was Knighted by a Bricklayer's Son, meaning the Pretender, and O Bryan told me, that he would hang me up when I went on Board; this drove me to Despair, and made me willing to go any where. He told me he had got a Birth, and was going Mate of a Dutch Ship the Dove Brigantine; he called it a Dutch Ship, and said, if I pleased I might take a Birth along with him; so I went on board the Dove with him, and I met Mr. Williams in the first Place, and Downing and
+<persName id="t17370224-2-person150"> Lawrence Senett
+<interp inst="t17370224-2-person150" type="surname" value="Senett"/>
+<interp inst="t17370224-2-person150" type="given" value="Lawrence"/>
+<interp inst="t17370224-2-person150" type="gender" value="male"/> </persName> .</p>
+<p>Counsel. What Discourse had you together?</p>
+<p>O Mara. They brought out a Prayer-Book, and swore me to Secrecy, and I swore. When they had done taking the Oath, they said this Ship was richly laden, and belonged to Jews, and that it was no Sin to carry it away from them. They said the Ship ('twas given out ) belonged to a Dutchman, but that was only a Sham and a Pretence. To get me into their Contrivances, they proposed to go away with the Ship, and sell her and her Cargo on the Coast of Portobel or Gallicia, and every one was to have an equal Dividend.</p>
+<p>Counsel. Who made the Proposition?</p>
+<p>O Mara. All; they all joined, Williams, Senett, O Bryan, and Downing I agreed with them in it, and we went ashore directly, and called Butler, and we drew up the Articles at a Publick House, the Sign of the Ship and Mermaid, at Leghorn.</p>
+<p>Counsel. Who drew up the Articles?</p>
+<p>O Mara. I did, and we all signed them. Williams signed first.</p>
+<p>Counsel. What was the Substance of the Articles?</p>
+<p>O Mara. The Substance was, that Williams should be Captain; O Bryan, Mate; Senett was to be Boatswain, and Downing was to be Second Mate; there was something to be for every one; every one was to have a Post, and so they gave me the Name of Doctor.</p>
+<p>Counsel. What followed upon this?</p>
+<p>O Mara. When we had signed the Articles, Williams and Senett went on board again; Downing, Butler, Bryan, and I, stay'd ashore.</p>
+<p>Counsel. What Office was Butler to have? you have not mentioned his Post.</p>
+<p>O Mara. I had forgot him; he was to be Supercargo.</p>
+<p>Counsel. Well, and what did you all do ashore.</p>
+<p>O Mara. Why, that Night we drank upon the Strength of what Williams gave us.</p>
+<p>Counsel. What did he leave you to spend?</p>
+<p>O Mara. A Chequin.</p>
+<p>Counsel. When did you see them again?</p>
+<p>O Mara. About two Days after, Downing, Butler, and I, sent aboard for Williams and Senett to come ashore to us, and we pretended that we had other Men who would join with us in the Business. This we did to get the Paper out of William's Hands, for took it when we had signed it.</p>
+<p>Counsel. Repeat again the Names of the Persons that signed, and the Order in which they signed.</p>
+<p>
+<xptr type="pageFacsimile" doc="173702240018"/>O Mara. William's signed first, as Captain; O Bryan, as Mate, second; Pierce Butler, third, as Supercargo; Downing, fourth, as Second Mate; Senett, fifth as Boatswin; and I said, Gentlemen, I am satisfied with any Thing; so I sign'd - Doctor.</p>
+<p>Counsel. What did you do with them when they came on Shore?</p>
+<p>O Mara We got the Paper from them and burnt it, and departed, resolving never to see one another more</p>
+<p>Counsel. What made you desire to get the Paper again?</p>
+<p>O Mara. Disunion among us.</p>
+<p>Counsel. How came you to go to the Ship again?</p>
+<p>O Mara. O Bryan and I took out a Bill of Health to go to Genoa on the 20th of August, but we had not the good Fortune to meet with a Felucca, so we were obliged to stay in the Town</p>
+<p>Counsel. Who burnt the Articles?</p>
+<p>O Mara. Williams, he would not give them out of his Hand; he pulled out a Paper, and said, here they are, and he held it over the Candle and burnt it; I believe it was the Articles.</p>
+<p>Q. Consider, you swore the Articles were burnt, now you say, you don't know whether they were or not; you must say nothing upon Surmise.</p>
+<p>O Mara. He produced a Paper, and said it was the Articles; 'twas very much like them, and he held it over the Candle 'till 'twas burnt; we did not care to shew Names. Downing was the Person that call'd out most for the Articles. Williams at first told us the Articles were on Board, but afterwards, when there was some Words about them, he drew out a Paper, and held it over the Candle, and burnt it, and said - there 'tis in Ashes</p>
+<p>Councel. What happen'd after the Paper was burnt?</p>
+<p>O Mara. Sometime afterwards, they began with us again: Williams spoke to Senett, and then they took Johnson in and me. We drew second Articles among us four, and I wrote the Articles by William's Direction. They were of the same Purport with the other, only the Names of the Mates, and Supercargo, and Boatswain were chang'd.</p>
+<p>Counsel. Who sign'd these second Articles?</p>
+<p>O Mara. Williams sign'd first as Captain, Senett sign'd second for Mate, I sign'd next for Supercargo, and Johnson for Boatswain. And to these second Articles there was none conscious but us four, to my Knowledge.</p>
+<p>Counsel. What Time were these Articles sign'd?</p>
+<p>O Mara. 'Twas before the Captain was kill'd, about a Week before, or thereabouts. I went on Board and remain'd on board from that Time 'till the Captain was kill'd.</p>
+<p>Counsel. Had you any Discourse together what was to be done with the Ship?</p>
+<p>O Mara. There was nothing fix'd where we were to go, some said we'll go to Sallee, some said to Angier, some said go here, some there.</p>
+<p>Councel. Were these Articles too, put into William's Hands?</p>
+<p>O Mara. Yes, and I saw them afterwards in his Hands, he deliver'd them into my Hands the Night before the Captain was kill'd, and that very same Night too. O'Bryan came on board the latter End of the Night, before the Captain was kill'd, and Butler with him. I was the first that saw them after they came on board, they had swam to us from the Lazaretto, and I told Williams that O'Bryan and Butler were come; and he propos'd the Affair to them. We had then on board Williams, Johnson, Senett, Butler, O'Bryan, and my self; all the Ship's Hands were upon Deck, these were all on board the Night the Captain was kill'd.</p>
+<p>Councel. Was the Design of killing the Captain, and running away with the Ship, mention'd to all these?</p>
+<p>O'Bryan. Yes, and they declin'd doing it that Night, because 'twas past 3 o'Clock, and they were afraid they should be taken before they could get off.</p>
+<p>Coun. Did any one of 'em oppose the doing it?</p>
+<p>O Mara. No, not one; they only declin'd doing it that Night, because 'twas so near Morning they were afraid of being taken.</p>
+<p>Councel. Did Johnson sign the second Articles?</p>
+<p>O Mara. Yes, he sign'd the second Articles, but not the first, Johnson was to be Boatswain.</p>
+<p>Councel. What were the Conditions of these Articles, with Regard to the Captain?</p>
+<p>O Mara. Some were for putting him to Death; but in the written Articles, that was left to Williams, and he said he would put him on Shore at Gallieto. By the Articles Williams was to do as he pleased with him. We had great Disputes about the Captain; some were for putting him on Shore at Gallieto, (a desolate Island on the Coast of Africa) with some Provisions, and among these, Williams was one.</p>
+<p>
+<xptr type="pageFacsimile" doc="173702240019"/>Jury. Was he to be put ashore dead or alive?</p>
+<p>O Mara. Alive, - alive, - we were to give him Provisions, I told you.</p>
+<p>Q. How far distant is Gallieto from any other Island?</p>
+<p>O Mara. Thirty or Forty Leagues.</p>
+<p>Q. How long after the Captain's coming on Board was it that he was kill'd?</p>
+<p>O Mara. He was kill'd the first Night he lay on board; he had been absent from the Ship a Day or two.</p>
+<p>Councel. Had you any Consultations while the Captain was on board?</p>
+<p>O Mara. No, not a Word, nor a Word of the Articles, while he was aboard</p>
+<p>Councel. After Butler and O'Bryan came on board, had you any Consultation?</p>
+<p>O Mara. After they came on board, Williams said he had a Mind to slip, and one of them said it would be hard to do that, for Fear the Crew should be in Liquor, and the Wind should blow hard.</p>
+<p>Councel. Was Wolf present at any of the second Meetings?</p>
+<p>O Mara. Yes, very often.</p>
+<p>Councel. Had they any Discourse what to do with the Powder and Guns?</p>
+<p>O Mara. Yes, the Morning after Bryan and Butler came aboard, they all went forward to the Captain's Cabbin and the Steerage, and I went down after them, and they eat some dried Fish, and drank some of that Country Wine, and after they had done eating, they took down 6 Fuzees which hung in the Cabbin, and Williams charg'd them with a single Ball in each of them. Wolf asked him, how many Balls he had put in? he said but one; Wolf said, G - d's Bl - d, a single Ball may fly here and there and do no Execution; so he put another Ball into every one of them, and said they should do sure Work; then I apprehended Murder would be done. I us'd to hear them very often threat'ning
+<persName id="t17370224-2-person151"> Dick Walker
+<interp inst="t17370224-2-person151" type="surname" value="Walker"/>
+<interp inst="t17370224-2-person151" type="given" value="Dick"/>
+<interp inst="t17370224-2-person151" type="gender" value="male"/> </persName> , - that they'd be even with him: They have said an hundred Times, D - n their Bloods, the first Opportunity they had, they would get him out of the Way, - a vile Dog as he was, for opposing them.</p>
+<p>Counsel. Who said so?</p>
+<p>O Mara. Williams has said so some Times, but rather seldomer than the others; Senett and Johnson has often said, - d - n the Dog he should have a shite, meaning a Shoot.</p>
+<p>Counsel. Was it propos'd that Bryan and Butler should sign the Articles?</p>
+<p>O Mara. Yes; they desir'd to see them, and Williams gave them into my Hands to read to them. I did so; and Bryan and Butler began to Swear and Damn, because in these second Articles, others were substituted in their Places: But Williams said he would make them all easy, when he was got out to Sea. Senett told him, that Johnson and himself had most trouble in lading the Ship, and says he shall others run away with the Substance. Then says Williams, do you take one of the Men, and I will take t'other, and we'll put them out of your Way, and they drew their long Knives, but Johnson said, if any Dog offered to come near him, he would rip him up; Bryan seeing this, said he would swim ashore again.</p>
+<p>Q. How soon after this did the Captain come aboard.</p>
+<p>O Mara. I was asleep when he came, but I believe it was about nine or ten at Night. I went to sleep about Duskish, and slept till the Groan awaked me, that was between Eleven and Twelve.</p>
+<p>Q. Do you know who went in the Boat to pursue the Boy.</p>
+<p>O Mara. I was below when the Boat went out, but I saw it return, Johnson and Butler came back in it. I heard Senett and Johnson say, G - d's Bl - d, the Dog can't swim far, he has got the Knife in his Body, however, take the Boat and row after him. When Johnson and Butler returned to the Ship, Johnson said, - Oh! you treacherous Dogs, G - d d - n you, could not you keep that Boy aboard, when I had done the Work of the Great Man, and killed him myself; and he drew out his Knife, and swore he would kill himself, because his Hands had miss'd the Boy; but I got hold of him, and said, For God's Sake don't send yourself to Heaven (to Hell, I meant) as yet. The Knife was bloody at that Time, I knew it, and I know he stole it from a Frenchman; the Blade was six or seven Inches long.</p>
+<p>Q. Did he say he had killed the Captain in the Hearing of the Prisoners?</p>
+<p>O Mara. Yes, - of every one of them, and they did not blame him at all, only Bryan and Butler blamed him for killing him before they were got out to Sea. Williams said, that was the Misfortune.</p>
+<p>Q. Who cut the Cable, and what Part of it was cut?</p>
+<p>O Mara. Williams cut it at the Windlace, there was about three Turns upon the Wind-lace.</p>
+<p>Williams.
+<persName id="t17370224-2-person152"> Dick Walker
+<interp inst="t17370224-2-person152" type="surname" value="Walker"/>
+<interp inst="t17370224-2-person152" type="given" value="Dick"/>
+<interp inst="t17370224-2-person152" type="gender" value="male"/> </persName> came and begged of me to take that Witness on board as a Passenger.</p>
+<p>
+<xptr type="pageFacsimile" doc="173702240020"/>Walker. I deny it; Williams asked me to let him come on board, and I said I would ask the Captain's Leave, and I did so, and the Captain said he might come, but he should pay for his Passage.</p>
+<p>
+<persName id="t17370224-2-person153"> John Legard
+<interp inst="t17370224-2-person153" type="surname" value="Legard"/>
+<interp inst="t17370224-2-person153" type="given" value="John"/>
+<interp inst="t17370224-2-person153" type="gender" value="male"/> </persName> . I was Chief Mate of the Levant, I saw Walker begging in the Water to be taken on board; and heard him pray for his Assistance, his Master being killed; he was taken in, and presently five Boats were mann'd out and arm'd; I was one that boarded the Brig. Bryan jumped over-boards but another Boat took him up again; Williams, Wolf, and an Indian (born at the Cape-of-good-Hope ) were upon Deck; Senett, Johnson, Bryan, and the Witness O Mara were hid in the Forescuttle under some raw Buffalo's Hides; d - n you, says I, to Williams, what have you done with the Captain, after some Time being silent, he said, he's a dead Man, and not a Man for this World. I went down into the Cabbin, and saw him lie on the Floor with his Hand on the Wound, and the Corpse was covered with a Sheet, his Scrutore broke open, and his Papers lying about. Williams said to Johnson, Johnson, don't deny it; you are the Man that killed the Captain, and I cut the Cable; and the Dutchman said, Awe, thot's the Mon thot slaaw'd the Coptain, and he said nothing at all in his own Excuse. Williams told us the Captain had always been very good; and he believed the Devil was in him, and he expected nothing but to die; so I sent him a Bible, and bid him make good Use of it. When we pulled the rest of them out from under the Hides, O Mara was very obstropolous, and told us he was the King of Spain's Subject; but we broke a Cutlass about his Shoulders, and made him quiet.</p>
+<p>Mr. Rogers. I was one who boarded this Brig, we found Wolf, Williams, and the Dutch-Indian, on Deck; I thought there must be more Men concealed, so I asked Williams for a Tinder-Box and Candle; he told me he knew of none; we told him he deserved to have his Nose cut off, - he a Mate, and not know where to find a Tinder-Box; at last, we found one, and got a Light to search for the Men who were hid; we saw their Legs under the Hides, but they would not come out; but upon our threatning to fire among them, O Mara, Johnson, Butler, and Senett, came out, and we secured them. Williams said, the Captain was very good to him, that he never eat nor drank without him, and he believed the Devil possessed him. He told Johnson it signified nothing to deny it. After this Senett confessed the whole Affair, and at his own Request I took an Account thereof in Writing. He told me that Williams swore him first to Secresy, and when he had sworn, he (Williams) told him the Vessel was richly laden, and if he could procure others to acquiesce with him, it might be run away with. Upon this he brought Downing to Williams, and after he was sworn to Secrecy, Williams told him (Downing) that the Captain was to be killed, that no Stories might be told. Williams said that for his Part, he was rather for setting the Captain ashore on a Desolate Island but Johnson insisted on his being killed, and said, it would not be the first (by many) that he had put out of the Way. That Downing was the Man who first proposed killing the Captain.</p>
+<p>The Prisoners had nothing material to say in their Defence, nor any Witnesses to call, either to the Fact, or their Characters.</p>
+<p>
+<persName id="t17370224-2-person154"> Edward Johnson
+<interp inst="t17370224-2-person154" type="surname" value="Johnson"/>
+<interp inst="t17370224-2-person154" type="given" value="Edward"/>
+<interp inst="t17370224-2-person154" type="gender" value="male"/> </persName> ,
+<rs id="t17370224-2-verdict22" type="verdictDescription">
+<interp inst="t17370224-2-verdict22" type="verdictCategory" value="guilty"/> Guilty </rs>.
+<persName id="t17370224-2-person155"> Nicholas Williams
+<interp inst="t17370224-2-person155" type="surname" value="Williams"/>
+<interp inst="t17370224-2-person155" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person155" type="gender" value="male"/> </persName> ,
+<rs id="t17370224-2-verdict23" type="verdictDescription">
+<interp inst="t17370224-2-verdict23" type="verdictCategory" value="guilty"/> Guilty </rs>.</p>
+<p>Senett, Wolf, Butler, and Bryan,
+<rs id="t17370224-2-verdict24" type="verdictDescription">
+<interp inst="t17370224-2-verdict24" type="verdictCategory" value="notGuilty"/> Acquitted </rs>.</p>
+<p>
+<persName id="t17370224-2-person156"> Edward Johnson
+<interp inst="t17370224-2-person156" type="surname" value="Johnson"/>
+<interp inst="t17370224-2-person156" type="given" value="Edward"/>
+<interp inst="t17370224-2-person156" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person157"> Nicholas Williams
+<interp inst="t17370224-2-person157" type="surname" value="Williams"/>
+<interp inst="t17370224-2-person157" type="given" value="Nicholas"/>
+<interp inst="t17370224-2-person157" type="gender" value="male"/> </persName> ,
+<persName id="t17370224-2-person158"> Lawrence Senett
+<interp inst="t17370224-2-person158" type="surname" value="Senett"/>
+<interp inst="t17370224-2-person158" type="given" value="Lawrence"/>
+<interp inst="t17370224-2-person158" type="gender" value="male"/> </persName> , were indicted a second Time, for
+<rs id="t17370224-2-off25" type="offenceDescription">
+<interp inst="t17370224-2-off25" type="offenceCategory" value="miscellaneous"/>
+<interp inst="t17370224-2-off25" type="offenceSubcategory" value="piracy"/> feloniously and piratically endeavouring to make, and causing to be made, a Revolt in the said Ship, and running away with the same </rs>,
+<rs id="t17370224-2-cd26" type="crimeDate">Sept. 7</rs>
+<join result="offenceCrimeDate" targOrder="Y" targets="t17370224-2-off17 t17370224-2-cd26"/>
+<join result="offenceCrimeDate" targOrder="Y" targets="t17370224-2-off25 t17370224-2-cd26"/>. as aforesaid.</p>
+<p>The Evidence upon this Indictment was the same as upon the former Trial, and the Jury found them all
+<rs id="t17370224-2-verdict27" type="verdictDescription">
+<interp inst="t17370224-2-verdict27" type="verdictCategory" value="guilty"/> Guilty </rs>.</p>
+<p>
+<rs id="t17370224-2-punish28" type="punishmentDescription">
+<interp inst="t17370224-2-punish28" type="punishmentCategory" value="death"/>
+<join result="defendantPunishment" targOrder="Y" targets="t17370224-2-defend96 t17370224-2-punish28"/>
+<join result="defendantPunishment" targOrder="Y" targets="t17370224-2-defend98 t17370224-2-punish28"/>
+<join result="defendantPunishment" targOrder="Y" targets="t17370224-2-defend100 t17370224-2-punish28"/>
+<note>[Death. See summary.]</note> </rs> </p> </div1></div0>
+</body>
+</text>
+</TEI.2>

@@ -1,0 +1,203 @@
+<!-- © 2003-2008 Old Bailey Proceedings Online -->
+<TEI.2>
+    <text>
+        <body>
+            <div0 id="t18520405" type="sessionsPaper" fragment="yes">
+                <div1 type="trialAccount" id="t18520405-421">
+                    <xptr type="pageFacsimile" doc="185204050087"/>
+                    <xptr type="preceedingDiv" divtype="trialAccount" id="t18520405-420"/>
+                    <xptr type="followingDiv" divtype="trialAccount" id="t18520405-422"/>
+                    <interp inst="t18520405-421" type="uri" value="sessionsPapers/18520405"/>
+                    <interp inst="t18520405-421" type="date" value="18520405"/>
+                    <join result="criminalCharge" id="t18520405-421-charge-1" targOrder="Y" targets="def1-421-18520405 t18520405-421-offence-1 t18520405-421-verdict-1"/>
+                    <join result="criminalCharge" id="t18520405-421-charge-2" targOrder="Y" targets="def2-421-18520405 t18520405-421-offence-1 t18520405-421-verdict-2"/>
+                    <join result="criminalCharge" id="t18520405-421-charge-3" targOrder="Y" targets="def3-421-18520405 t18520405-421-offence-1 t18520405-421-verdict-1"/>
+                    <p>421.
+                        <hi rend="largeCaps">
+                            <persName id="def1-421-18520405" type="defendantName">
+                                <interp inst="def1-421-18520405" type="gender" value="male"/>
+                                <interp inst="def1-421-18520405" type="age" value="24"/>
+                                <interp inst="def1-421-18520405" type="surname" value="COOPER"/>
+                                <interp inst="def1-421-18520405" type="given" value="ISAAC"/>
+                                <interp inst="def1-421-18520405" type="occupation" value="master of ship"/>ISAAC COOPER</persName>,
+                            <persName id="def2-421-18520405" type="defendantName">
+                                <interp inst="def2-421-18520405" type="gender" value="male"/>
+                                <interp inst="def2-421-18520405" type="surname" value="KNOTT"/>
+                                <interp inst="def2-421-18520405" type="given" value="THOMAS"/> THOMAS KNOTT</persName> </hi>. and
+                        <persName id="def3-421-18520405" type="defendantName">
+                            <interp inst="def3-421-18520405" type="gender" value="male"/>
+                            <interp inst="def3-421-18520405" type="age" value="27"/>
+                            <interp inst="def3-421-18520405" type="surname" value="PALMER"/>
+                            <interp inst="def3-421-18520405" type="given" value="RICHARD"/>
+                            <hi rend="largeCaps">RICHARD PALMER</hi> </persName>. were indicted for
+                        <rs id="t18520405-421-offence-1" type="offenceDescription">
+                            <interp inst="t18520405-421-offence-1" type="offenceCategory" value="miscellaneous"/>
+                            <interp inst="t18520405-421-offence-1" type="offenceSubcategory" value="piracy"/> that they, being subjects of our Lady the Queen, and mariners, on board a vessel, on the High Seas, and within the jurisdiction of the Admiralty, did betray their trust, and piratically steal the said vessel. 2nd Count: for simple larceny.</rs> </p>
+                    <p>
+                        <hi rend="smallCaps">MESSRS. PAYNE</hi> and
+                        <hi rend="smallCaps">W. J. PAYNE</hi>
+                        <hi rend="italic">conducted the Prosecution.</hi> </p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18520405-name-408" type="witnessName">
+                                <interp inst="t18520405-name-408" type="gender" value="male"/>
+                                <interp inst="t18520405-name-408" type="surname" value="HOWARD"/>
+                                <interp inst="t18520405-name-408" type="given" value="JAMES"/>JAMES HOWARD</persName> </hi>. I am a ship owner, and am owner of a fishing smack called the
+                        <hi rend="italic">Experiment.</hi> The prisoner Cooper was appointed master of her by my agent, Mr. Wooster, who had authority from me to appoint the proper persons to navigate the vessel—when I purchased the vessel, a person named George Lott was the master, and be remained so about four or five months—the vessel was sent down to my fishing establishment at Grimsby.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18520405-name-409" type="witnessName">
+                                <interp inst="t18520405-name-409" type="gender" value="male"/>
+                                <interp inst="t18520405-name-409" type="surname" value="WOOSTER"/>
+                                <interp inst="t18520405-name-409" type="given" value="JOHN RAWDON"/>JOHN RAWDON WOOSTER</persName> </hi>. I live at Great Grimsby, and am agent for Mr. Howard. I appointed Cooper master of the
+                        <hi rend="italic">Experiment</hi> on 2nd Jan. last—he had made one voyage in her before; he had only been ten or twelve days in he employment before 2nd Jan.—she was sent from Great Grimsby on 4th Jan.—at that time a man named Dennis was mate, and Swale was the teaman, and there was a boy on board named Ford—the instructions I gave Cooper were to go and catch a voyage of fish and bring the fish back as soon as possible, as I should send them to London—he was to get the fish off Grimsby, at what they call the fishing grounds off Flamborough Head—under ordinary circumstances they are away three or four days; that is the average time of a fishing trip—I received this letter (
+                        <hi rend="italic">produced</hi>) from Cooper on 8th Jan.—it is his writing, though he has not signed his own name to it—(read—"Scarborough, 8th Dec. Mr. Wooster, Sir,—We arrived in here last night very leaky indeed, we could scarce keep her up; we had a little fish, out very stale; we could not sell it at all, and we had no provisions on board;</p>
+                    <xptr type="pageFacsimile" doc="185204050088"/>
+                    <p>we
+                        <hi rend="italic">was</hi> able to borrow a sovereign of a man here to buy tome, and wish you to send it by return of post, because he is a very poor man and wants it. Please to send word what we must do to the vessel, she is not fit to go out again. You must send some money to repair her with, for we cannot get any done here without, and direct your letter for William Beeson, fishmonger Scarborough") I received that letter on 9th or 10th Jan.; the date of Dec. must be a mistake—I did not send any money in consequence of that—I sent a man to see if what Cooper stated was true, and gave him orders to have the vessel
+                        <hi rend="italic">caulked</hi>, if necessary, and gave him money for the purpose—he went there and did all that was necessary, and left—about 13th or 14th Feb. I saw Dennis the mate and Swale—they made a communication to me—I received this other letter from Cooper—it is his writing—(
+                        <hi rend="italic">read</hi>—"New Dieppe, 7th Feb., 1852. Mr. Wooster, Sir,—We arrived in here on Saturday; we
+                        <hi rend="italic">was</hi> blows here short of provisions, and went to the English Consul for some money; he let me have some, but not enough to serve us to pay all the expenses. I went to him again for some more to pay the harbour dues, but he would not let me have any to pay it with, so the harbour master has stopped us here. We cannot get away for the sum of 2
+                        <hi rend="italic">l</hi>. or 3
+                        <hi rend="italic">l</hi>.; they are a very queer lot of people about here. There is a
+                        <hi rend="italic">biliy boy</hi> lying here almost the same way; the Consul will not let them have money, nor anything, so we must lie here without provisions or anything. We had an old anchor and chain we woe obliged to sell to buy things for the vessel; and I do not know how long we may be lying here if they do not get paid their harbour dues. I should wish to have some money to get clear of this lot of villains, for they are big rascals, and I do not know what to make of them at all. So no more at present from your bumble servant, J. W. Cooper.") The vessel was brought back to Grimsby by Mr. West, and the prisoners were sent home in custody—I have here an in
+                        <lb/>ventory which I made of the things in the vessel when she sailed from Grimsby (
+                        <hi rend="italic">producing it</hi>)—at the time I gave the vessel in charge to Cooper there was on board 180 fathoms of chain cable, two bower anchors, two keilges, one boat anchor, four small anchors, two grapnels, a two-hour glass, three glass compasses, and five jibs—when the vessel came back, a great many of these things were gone—I missed one bower anchor, two kedge anchors, about 120 fathoms of the chain cable, the two-hour glass, a compass, a jib, and a quantity of rope—the value of all the things that were missing was, I should say, up
+                        <lb/>wards of 50
+                        <hi rend="italic">l</hi>.—the value of the vessel is 300
+                        <hi rend="italic">l</hi>.</p>
+                    <p>
+                        <hi rend="italic">Cooper.</hi> You say you shipped me as master, and told me to go and get a voyage of fish, and get back again; you never said any such thing; you said, "When you come in, bring me a pair or two of soles," that was all; not a word was mentioned about getting a voyage of fish, or anything else.
+                        <hi rend="italic">Witness.</hi> I did mention it; he was well aware that a vessel is never gone above two or three days—I had no intention of trusting him with the vessel for eight, nine, or ten weeks—I did not mention the number of days he was to be absent, but I naturally expected he would not be gone more than three or four—the crew were to have half what the vessel earned, the master was to have a share and a quarter and half a quarter, and the men a share and half a quarter each—there are eight shares—they went on the share system—they bad about a month's supply of provisions; the object of that was to prevent dock dues—there is a dock at Great Grimsby, and every time a ves
+                        <lb/>sel comes in she pays 5
+                        <hi rend="italic">s</hi>.; so she was victualled for a month that she might come into the roads, and go out again—he made a voyage before as mate, and was only gone four or five days—a fishing voyage of nine or ten weeks would not be profitable—we never allow our vessels to be out that time—</p>
+                    <xptr type="pageFacsimile" doc="185204050089"/>
+                    <p>our object was to send the fish up to the London market by the Great Northern Railway; we have a contract with that company for that purpose—I did not authorise Cooper to go to New Dieppe for tobacco or spirits.</p>
+                    <p>
+                        <hi rend="italic">Cooper. Q.</hi> In what condition was the vessel when we shipped?
+                        <hi rend="italic">A.</hi> I heard no complaint—a little twine had got out of the seams which caused her to leak, but that was put to rights in a few hours at Scarborough—there was lcwt. of meat and lcwt. of biscuit on board, that is considered sufficient for a month—we do not find liquor, but we do find either small beer or sugar and coffee, which they like.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18520405-name-410" type="witnessName">
+                                <interp inst="t18520405-name-410" type="gender" value="male"/>
+                                <interp inst="t18520405-name-410" type="surname" value="SWALE"/>
+                                <interp inst="t18520405-name-410" type="given" value="JOHN"/>JOHN SWALE</persName> </hi>. I was seaman on board the
+                        <hi rend="italic">Experiment.</hi> On 4th Jan. we sailed from Grimsby—Cooper was the master, Dennis mate, and a boy named Ford was on board—we fished off the north ground, about sixty miles from Grimsby, we caught seven pots of soles, and several baskets of
+                        <hi rend="italic">offal</hi>, such as haddock and plaice—we took them into Scarborough, and the soles were sent off by railroad—Dennis then left the vessel, and the prisoner Palmer was taken in his place—he was known by the name of
+                        <hi rend="italic">Dover Dick</hi>—while we were at Scarborough, Cooper said that the fish fetched 2
+                        <hi rend="italic">l</hi>. 17
+                        <hi rend="italic">s</hi>.—he told me he had sent the soles away by railway, but the other part of it was sent for manure, it was no use, it was so stale—he did not mention Mr. Wooster's name—we went out again on another trip and caught some more fish—before that, the vessel was repaired at Scarborough; the repairs were done under the direction of Mr. Scott, a man who was employed by Mr. Wooster—after that she was pretty tight—she made a little water, but nothing of any conse
+                        <lb/>quence—we then fished about thirty or forty miles from Scarborough—we caught about ten baskets of soles, and three baskets of brill and turbot, and five or six baskets of
+                        <hi rend="italic">offal</hi>, such as haddock and plaice—we took them to Sun
+                        <lb/>derland, and Cooper sold them—I do not knew exactly what he got for them—I got some of the money; some he gave to Palmer, and the other he got for himself—we were by the share; there was no reckoning up about it—I bad asked him before we got in there if he could let me have a sovereign or 30
+                        <hi rend="italic">s</hi>., as I had a wife at home, and I bad been five or six weeks on board and bad only had 5
+                        <hi rend="italic">s</hi>. or 6
+                        <hi rend="italic">s</hi>.; so I believe I got as much as was due to me—Cooper and I both joined the vessel, together—he was then mate—that was not on this voyage—I got very little money before—we went into Sunderland on the Tuesday, and left on the Saturday; while there I heard Palmer make mention to Cooper about taking part of a troll warp ashore to sell—he did not do it—I heard him propose to take some rope ashore to sell—I told him it would be foolish to attempt such a thing as that, if he did he would be sure to get taken to gaol—he said, "You are a fool; there is no fear of these lads, they are not like other lads"—once before that I heard him say that he would go across, provided he could get anything to go for—he did not say where he would go, further than that he would go across—that is generally understood to mean going across to Holland—he did not say for what purpose—it is un
+                        <lb/>derstood to mean going for tobacco—I have heard him say that he could draw money on the vessel—it was once talked of that if they could not get a freight at Sunderland they would go to Yarmouth, and see if they could get one there—they did ndt say anything to me about the stores—I left the vessel, because they were taking rope ashore, belonging to the vessel to sell, and they were going smuggling, and all that, so I saw it would not do, and they were too much given to drink—I knew very well that by going
+                        <hi rend="italic">across</hi> they meant going smuggling—they were short of provisions, and they talked of laying up the stores to buy some—when I arrived at Grimsby, I saw Mr. Wooster—I was told he wanted to see me, and I went and made a communication to him</p>
+                    <xptr type="pageFacsimile" doc="185204050090"/>
+                    <p>—I heard Palmer say that he had been across three or four times—I do not know whether Palmer sold any of the rope at Sunderland—he was getting it ready to take ashore when I left the vessel—Cooper was then ashore—I do not know whether he knew of it or not.</p>
+                    <p>
+                        <hi rend="italic">Cooper.</hi> He said at first that he saw me take the rope ashore, and now he says that I was ashore at the time; I was on deck when he left, and bid him good-bye; this is the first time he ever went a fishing voyage, and he does not know what price fish fetches.
+                        <hi rend="italic">Witness.</hi> It is my second voyage, I hid been out with Cooper before; we were then out four or five clays—we went out from Grimsby and came back to Grimsby—Cooper did bid me good-bye when I left the vessel—I do not know the value of fish—at the time Palmer was packing up the rope, Cooper was asleep in ray bed—I awoke him and got my clothes ashore before the rope went, for fear I should be connected with it—that was on the Saturday morning—I had heard him talk about selling it on the Friday night.</p>
+                    <p>
+                        <hi rend="italic">Palmer.</hi> On Friday night the master ordered me to clean the rope up; I did so by his order, and put it on one side in two baskets, after washing it out.
+                        <hi rend="italic">Witness.</hi> He did not wash it out while I was on board.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18520405-name-411" type="witnessName">
+                                <interp inst="t18520405-name-411" type="gender" value="male"/>
+                                <interp inst="t18520405-name-411" type="surname" value="FORD"/>
+                                <interp inst="t18520405-name-411" type="given" value="SAMUEL"/>SAMUEL FORD</persName> </hi>. I was a boy on board the
+                        <hi rend="italic">Experiment.</hi> We went from Great Grimsby about the beginning of the year—Mr. Moore was master when we first went out; the second time Cooper was master, Dennis mate, and Swale seaman—we went fishing, I cannot say how far from Grimsby, and caught plaice, haddock, soles, and other fish—we took them to Scarborough—Dennis then left, and Palmer, or
+                        <hi rend="italic">Dover Dick</hi>, came in his place—the vessel was caulked all over at Scarborough—we then went fishing again, and caught soles, haddock, and plaice—we took it to Sunderland; some men and women came on board and bought it—I saw some of them pay for it—Cooper sold the fish—Swale left the vessel, and Knott was taken in his place—I heard Cooper and Palmer say, they should like to go
+                        <hi rend="italic">across</hi>, they did not say what for; the vessel left Sunderland on Monday morning—she went along the coast to Flamborough-head, where there is a light, and then went across to Holland—we had one night's haul of fish before we went into harbour there—a Dutchman who took the ropes ashore took the fish—the rope he took was old rope that was lying about the vessel—I remember the big jib being sold at New Dieppe, a kedge anchor, and some chain—the Dutchman took it in the boat—I do not know who told him to take it—I took a compass to a man's house, not the same man that had the other things;
+                        <hi rend="italic">Dover Dick</hi> told me to take it—I saw some fathoms of chain cable taken away—Cooper, Knott, and Palmer, were all down in the forecastle at the time the Dutchman took it away—it was pulled out of the hold, the prisoners were there at the time.</p>
+                    <p>
+                        <hi rend="italic">Palmer.</hi> When he took the compass, the captain was in custody of a policeman, and he came down and said, "You must give me something, or I can't get clear," and I told the boy to take the compass; the captain ordered me to give it him.
+                        <hi rend="italic">Witness.</hi> It was Palmer that gave me the com
+                        <lb/>pass, it was down in the cabin at the time—the vessel was in the harbour at New Dieppe—I saw a policeman there with a stick, but I did not know that he was a policeman.</p>
+                    <p>
+                        <hi rend="smallCaps">MR. HOWARD</hi>
+                        <hi rend="italic">re-examined.</hi> In going along the coast from Sudherland to the Lemon light, you have to pass Grimbsy—the Lemon light is about forty-five or fifty miles to the southerward of Grimbsy—the Spurn light is at the lowest part of the Humber—I do not know the wind was at that time; they could have got into Grimpsy if they had chosen—if I had going to Hol
+                        <lb/>land,</p>
+                    <xptr type="pageFacsimile" doc="185204050091"/>
+                    <p>I should have shaped my course straight from Sunderland; but I sup
+                        <lb/>pose they, not knowing much about it, made for the Lemon light—there was nothing to prevent their coming into Grimsby.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18520405-name-412" type="witnessName">
+                                <interp inst="t18520405-name-412" type="gender" value="male"/>
+                                <interp inst="t18520405-name-412" type="surname" value="PARK"/>
+                                <interp inst="t18520405-name-412" type="given" value="SAMUEL"/>SAMUEL PARK</persName> </hi>. I was a boy on board the
+                        <hi rend="italic">Experiment.</hi> I was taken on board at Scarborough, about 16th or 17th Jan.—we left there that same morning, and went on the fishing ground—I think we caught nine pots and seventeen or eighteen baskets—they were sold at Sunderland to men and women, who came on board—I saw some money paid to Cooper—we staid at Sunderland a week—the prisoners were ashore during that time, sometimes they were aboard at night, and sometimes not—a day or two before we left Sunderland, Swale went away—he told me something before he left—I did not intend to leave, as I did not know where to go to—the vessel left Sun
+                        <lb/>derland on Monday morning; we went along the coast that day, it came on to blow, and we were brought up in Whitby-roads—we staid there two days and two nights—we then started and went past Grimsby; we had fine wea
+                        <lb/>ther all that day, and ran up with a fair wind, there was nothing to prevent our going into Grimsby—we could have gone in with a nice fair wind; we were sailing all that night, and did not see anything of the light boat; next day it was rather hazy, and we made the Lemon light—we took our course from there across to Holland—we caught some fish before we went there—we sold it at New Dieppe—at least not sold it; a man came off to take the rope to haul us in, and he took it ashore; we had a bottle of gin and a pound of tobacco for it—some chain was taken ashore there, a large bower anchor, a compass, and two kedge anchors; I do not know what else, a Dutchman took them away—the three prisoners were present when they were taken—the Dutchman could not have taken them away without they had let him.</p>
+                    <p>
+                        <hi rend="italic">Cooper.</hi> He states we were all present when the anchor and chains were taken but of the vessel; we were not; I was on board, but these two men were not.
+                        <hi rend="italic">Witness.</hi> They were all there when I went down, but when the anchor went, only the
+                        <hi rend="italic">skipper</hi> was there—I cannot say how the wind was when we went past Grimsby, but I know it was a fair wind—I have been at sea nearly three years, and ought to know when the wind is fair.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18520405-name-413" type="witnessName">
+                                <interp inst="t18520405-name-413" type="gender" value="male"/>
+                                <interp inst="t18520405-name-413" type="surname" value="WEST"/>
+                                <interp inst="t18520405-name-413" type="given" value="JAMES VINCENT"/>JAMES VINCENT WEST</persName> </hi>. I was chief officer of the
+                        <hi rend="italic">Lion</hi> steam ship, which trades between Dieppe and London. I was at Dieppe in Jan. last—there is a fine harbour there, the sea flows into it, and ships go in—I saw the
+                        <hi rend="italic">Experiment</hi> there—I received a communication from a Mr. Saunders, and returned to London in the
+                        <hi rend="italic">Lion</hi>, and was employed by Mr. Howard to fetch the
+                        <hi rend="italic">Experiment</hi> over—I arrived again at Dieppe on 22nd Feb.—the prisoners were then on board the Dutch guard ship, by order of the British Consul—I took charge of the
+                        <hi rend="italic">Experiment</hi>—I found her in rather a deplorable state, very short of stores, and of very nearly every description of things—I found 120 fathom of chain cable gone, three anchors, a big jib, a two-hour glass, a compass, and pair of boat grips—I saw Cooper on board the guard ship, and he told me as far as he knew about the things—I went where he told me to go—at a Jew's I found sixty fathom of cable, a best bower anchor, a jib, and a pair of boat grips—it appeared that the Jew had also purchased the kedge anchors, but I could not find them in his place—I was obliged to buy other things to supply their place—I engaged two men, and with their assistance and the boys brought the vessel to Grimsby—we sailed from Dieppe on 23rd Feb. at 11 o'clock, and arrived at Grimsby at 3 next day—I saw the prisoners on board the
+                        <hi rend="italic">Lion</hi> in custody—I consider the
+                        <hi rend="italic">Experiment</hi> was a very fast sailer; she averaged eight knots an hour, she was seaworthy, or I should not have come home in her.</p>
+                    <xptr type="pageFacsimile" doc="185204050092"/>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18520405-name-414" type="witnessName">
+                                <interp inst="t18520405-name-414" type="gender" value="male"/>
+                                <interp inst="t18520405-name-414" type="surname" value="WHITE"/>
+                                <interp inst="t18520405-name-414" type="given" value="RICHARD"/>RICHARD WHITE</persName> </hi> (
+                        <hi rend="italic">Thames-police inspector</hi>). I received the prisoners into custody at the Thames police-station—I told Cooper they were charged with running away with the smack
+                        <hi rend="italic">Experiment</hi>, and selling part of her stores, at New Dieppe—he said they were driven by stress of weather, and were obliged to sell the jib, anchors, and chain for 5
+                        <hi rend="italic">l</hi>., for provisions—I asked him how long the vessel was stored for when he left Great Grimsby—he said a month—I asked how long he had been out—he said three weeks and a few days—I said, "That is a long time to be out; you must have caught some fish during that time"—he said, "Yes, we caught some fish; but sold none"—in the evening I asked him who it was that signed the bill for 12
+                        <hi rend="italic">l</hi>. 15
+                        <hi rend="italic">s</hi>., as the name of George Lott was on it—he said he had signed Lott's name, he being the prior master of the vessel.</p>
+                    <p>
+                        <hi rend="italic">Cooper's Defence.</hi> After we left Sunderland we were brought up in Whitby-roads; we had a
+                        <hi rend="italic">haul</hi> in what is called
+                        <hi rend="italic">Botany Gut</hi>, and caught some plaice there; we then shaped our course for Grimsby (we did not want to go to Grimsby from Sunderland, because we had no fish to go in with); but in the afternoon it came on to blow, and we were obliged to lay-to all night; early next morning we sighted Camper down, and, being short of provisions, we were obliged to go to New Dieppe; and when the pilot came on board next morning, there were four leaks in the vessel.</p>
+                    <p>
+                        <hi rend="largeCaps">COOPER</hi>—
+                        <rs id="t18520405-421-verdict-1" type="verdictDescription">
+                            <interp inst="t18520405-421-verdict-1" type="verdictCategory" value="guilty"/>
+                            <interp inst="t18520405-421-verdict-1" type="verdictSubcategory" value="no_subcategory"/>
+                            <hi rend="smallCaps">GUILTY</hi>
+                            <hi rend="italic">on 2nd Count.</hi> </rs> Aged 24.—
+                        <hi rend="italic">
+                            <rs id="t18520405-421-punishment-63" type="punishmentDescription">
+                                <interp inst="t18520405-421-punishment-63" type="punishmentCategory" value="transport"/>
+                                <join result="defendantPunishment" targOrder="Y" targets="def1-421-18520405 t18520405-421-punishment-63"/>Transported for Ten Years</rs>.</hi> </p>
+                    <p>
+                        <hi rend="largeCaps">PALMER</hi>—
+                        <rs id="t18520405-421-verdict-1" type="verdictDescription">
+                            <interp inst="t18520405-421-verdict-1" type="verdictCategory" value="guilty"/>
+                            <interp inst="t18520405-421-verdict-1" type="verdictSubcategory" value="no_subcategory"/>
+                            <hi rend="smallCaps">GUILTY</hi>
+                            <hi rend="italic">on 2nd Count.</hi> </rs> Aged 27.—
+                        <hi rend="italic">
+                            <rs id="t18520405-421-punishment-64" type="punishmentDescription">
+                                <interp inst="t18520405-421-punishment-64" type="punishmentCategory" value="transport"/>
+                                <join result="defendantPunishment" targOrder="Y" targets="def3-421-18520405 t18520405-421-punishment-64"/>Transported for Seven Years</rs>.</hi> </p>
+                    <p>
+                        <hi rend="largeCaps">KNOTT</hi>—
+                        <hi rend="smallCaps">
+                            <rs id="t18520405-421-verdict-2" type="verdictDescription">
+                                <interp inst="t18520405-421-verdict-2" type="verdictCategory" value="notGuilty"/>
+                                <interp inst="t18520405-421-verdict-2" type="verdictSubcategory" value=""/>NOT GUILTY</rs> </hi>.</p>
+                    <p>(
+                        <hi rend="italic">There was a further charge against Cooper for stealing the cable: to which he pleaded Guilty. There was another charge against him for forging a bill of exchange; and two charges against Knott for stealing the articles in the vessel; on which</hi>
+                        <hi rend="smallCaps">MR. PAYNE</hi>
+                        <hi rend="italic">offered no evidence.</hi>)</p> </div1></div0>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,154 @@
+<!-- © 2003-2008 Old Bailey Proceedings Online -->
+<TEI.2>
+    <text>
+        <body>
+            <div0 id="t18411129" type="sessionsPaper" fragment="yes">
+                <div1 type="trialAccount" id="t18411129-297">
+                    <xptr type="pageFacsimile" doc="184111290248"/>
+                    <xptr type="preceedingDiv" divtype="trialAccount" id="t18411129-296"/>
+                    <interp inst="t18411129-297" type="uri" value="sessionsPapers/18411129"/>
+                    <interp inst="t18411129-297" type="date" value="18411129"/>
+                    <join result="criminalCharge" id="t18411129-297-charge-1" targOrder="Y" targets="def1-297-18411129 t18411129-297-offence-1 t18411129-297-verdict-1"/>
+                    <join result="criminalCharge" id="t18411129-297-charge-2" targOrder="Y" targets="def2-297-18411129 t18411129-297-offence-1 t18411129-297-verdict-1"/>
+                    <p>297.
+                        <persName id="def1-297-18411129" type="defendantName">
+                            <interp inst="def1-297-18411129" type="gender" value="male"/>
+                            <interp inst="def1-297-18411129" type="age" value="22"/>
+                            <interp inst="def1-297-18411129" type="surname" value="THOMAS"/>
+                            <interp inst="def1-297-18411129" type="given" value="LEVI"/>
+                            <hi rend="largeCaps">LEVI THOMAS</hi> </persName> and
+                        <persName id="def2-297-18411129" type="defendantName">
+                            <interp inst="def2-297-18411129" type="gender" value="male"/>
+                            <interp inst="def2-297-18411129" type="age" value="21"/>
+                            <interp inst="def2-297-18411129" type="surname" value="M'CLIVE"/>
+                            <interp inst="def2-297-18411129" type="given" value="WILLIAM"/>
+                            <hi rend="largeCaps">WILLIAM M'CLIVE</hi> </persName> were indicted for
+                        <rs id="t18411129-297-offence-1" type="offenceDescription">
+                            <interp inst="t18411129-297-offence-1" type="offenceCategory" value="miscellaneous"/>
+                            <interp inst="t18411129-297-offence-1" type="offenceSubcategory" value="piracy"/> feloniously and piratically stealing, on the
+                            <rs id="t18411129-cd-259" type="crimeDate">
+                                <join result="offenceCrimeDate" targOrder="Y" targets="t18411129-297-offence-1 t18411129-cd-259"/>13th of May</rs>, upon the high seas, within the jurisdiction of the Admiralty of England, 1 boat, value 19
+                            <hi rend="italic">l</hi>.; 3 oars, value 1
+                            <hi rend="italic">l</hi>. 4
+                            <hi rend="italic">s</hi>.; 1 sail, value 2
+                            <hi rend="italic">l</hi>. 10
+                            <hi rend="italic">s</hi>.; 1 cask, value 1
+                            <hi rend="italic">l</hi>. 6
+                            <hi rend="italic">s</hi>.; 20 fa
+                            <lb/>thorn of rope, value 15
+                            <hi rend="italic">s</hi>.; the goods of
+                            <persName id="t18411129-name-1553" type="victimName">
+                                <interp inst="t18411129-name-1553" type="gender" value="male"/>
+                                <interp inst="t18411129-name-1553" type="surname" value="TEMPERLEY"/>
+                                <interp inst="t18411129-name-1553" type="given" value="JOHN"/>
+                                <join result="offenceVictim" targOrder="Y" targets="t18411129-297-offence-1 t18411129-name-1553"/>John Temperley</persName> and others: 1 watch, value 1
+                            <hi rend="italic">l</hi>., the goods of
+                            <persName id="t18411129-name-1554" type="victimName">
+                                <interp inst="t18411129-name-1554" type="gender" value="male"/>
+                                <interp inst="t18411129-name-1554" type="surname" value="JEFFERSON"/>
+                                <interp inst="t18411129-name-1554" type="given" value="SAMUEL"/>
+                                <join result="offenceVictim" targOrder="Y" targets="t18411129-297-offence-1 t18411129-name-1554"/>Samuel Jefferson</persName>: 2 shirts, value 10
+                            <hi rend="italic">s</hi>.; 2 woollen shirts, value 12
+                            <hi rend="italic">s</hi>.; 1 jacket, value 1
+                            <hi rend="italic">l</hi>.; and 2 pairs of trowsers, value 2
+                            <hi rend="italic">l</hi>. 12
+                            <hi rend="italic">s</hi>.; the goods of
+                            <persName id="t18411129-name-1555" type="victimName">
+                                <interp inst="t18411129-name-1555" type="gender" value="male"/>
+                                <interp inst="t18411129-name-1555" type="surname" value="BUURMESTER"/>
+                                <interp inst="t18411129-name-1555" type="given" value="JOHN"/>
+                                <join result="offenceVictim" targOrder="Y" targets="t18411129-297-offence-1 t18411129-name-1555"/>John Buurmester</persName>.</rs> </p>
+                    <p>
+                        <hi rend="smallCaps">MR. BODKIN</hi>
+                        <hi rend="italic">conducted the Prosecution</hi>.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18411129-name-1556" type="witnessName">
+                                <interp inst="t18411129-name-1556" type="gender" value="male"/>
+                                <interp inst="t18411129-name-1556" type="surname" value="JEFFERSON"/>
+                                <interp inst="t18411129-name-1556" type="given" value="SAMUEL"/>SAMUEL JEFFERSON</persName> </hi>. I was mate on hoard the barque
+                        <hi rend="italic">Jane</hi>, which laid off a port of Mexico, in May last—she was an English vessel, and had sailed from Liverpool—the prisoners both belonged to the ship—one of the seamen gave me information in May last, in consequence of which I looked about and missed a boat, and four men of the vessel were gone—the prisoners are two of them—I also missed some oars, a top-gal-lant studding sail, a cask, my own watch, and some clothes belonging to two seamen—I had been on deck myself till eleven o'clock the night before, and left the prisoner Thomas on deck in charge of the watch—the other prisoner was below—the master of the vessel had been on shore some days—the captain made a communication to the English consul of what had occurred—I am sure the prisoners are two of the men.</p>
+                    <p>
+                        <hi rend="italic">Thomas. Q.</hi> You gave the watch in my charge when you went below?
+                        <hi rend="italic">A.</hi> Yes, I was in the habit of doing it—it was a small silver watch.</p>
+                    <p>
+                        <hi rend="smallCaps">COURT</hi>.
+                        <hi rend="italic">Q.</hi> Who had charge of the vessel in your absence?
+                        <hi rend="italic">A.</hi> He had during the two hours of his watch—I have seen it safe since—(
+                        <hi rend="italic">pro
+                            <lb/>duced</hi>) —this is it.</p>
+                    <p>
+                        <hi rend="italic">M'Clive</hi>. We did not steal any clothing from the vessel, it is a mistake.
+                        <hi rend="italic">Witness</hi>. Two of the men complained of losing their clothes.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18411129-name-1557" type="witnessName">
+                                <interp inst="t18411129-name-1557" type="gender" value="male"/>
+                                <interp inst="t18411129-name-1557" type="surname" value="BUURMESTER"/>
+                                <interp inst="t18411129-name-1557" type="given" value="JOHN"/>JOHN BUURMESTER</persName> </hi>. I was a seaman on board the barque
+                        <hi rend="italic">Jane</hi>—I remember when she laid off the port—I was on deck about nine o'clock—Thomas came up to me and said, "You are a dead man"—in consequence of that I went below—I went up on deck again about three o'clock in the morning—four men were then gone from the vessel—the pri
+                        <lb/>soners are two of them—the boat and sails, cask and other things were gone from the vessel, which were on board when I went below—the boat was on board, lying aft, when Thomas said, "You are a dead man"—I missed a jacket, waistcoat, two pairs of trowsers, and four shirts, of my own.</p>
+                    <p>
+                        <hi rend="italic">Thomas. Q.</hi> Did you see me take anything belonging to the ship?
+                        <hi rend="italic">A.</hi> No—it was not Jackson that told me if I did not go down I should be a dead man.</p>
+                    <p>
+                        <hi rend="italic">M'Clive. Q.</hi> You did not see me take any of your clothes?
+                        <hi rend="italic">A.</hi> No—Jackson was one of the four men that went.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18411129-name-1558" type="witnessName">
+                                <interp inst="t18411129-name-1558" type="gender" value="male"/>
+                                <interp inst="t18411129-name-1558" type="surname" value="TEMPERLEY"/>
+                                <interp inst="t18411129-name-1558" type="given" value="JOHN"/>JOHN TEMPERLEY</persName> </hi>. I was master of the barque
+                        <hi rend="italic">Jane</hi>, and am part owner of her with others—the value of my property taken from the vessel is about 40
+                        <hi rend="italic">l</hi>.—the boat was worth nineteen guineas—I have not recovered any part of it—I was on shore at the time—the vessel was sixteen miles</p>
+                    <xptr type="pageFacsimile" doc="184111290249"/>
+                    <p>from shore, on the high seas—in consequence of a communication from the Admiralty, I went to Cork, and found the two prisoners in custody—I saw this watch there—it was given to Roe by the Cork constable.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18411129-name-1559" type="witnessName">
+                                <interp inst="t18411129-name-1559" type="gender" value="male"/>
+                                <interp inst="t18411129-name-1559" type="surname" value="ROE"/>
+                                <interp inst="t18411129-name-1559" type="given" value="JOHN"/>JOHN ROE</persName> </hi>. I am an officer. The watch was handed to me by the Cork officer at Guildhall—I was not at Cork—the officer is not here.</p>
+                    <p>
+                        <hi rend="italic">Thomas's Defence</hi>. I was taken from the ship into the boat in conse
+                        <lb/>quence of being in liquor; the apprentice had given me liquor, and I did not know where I was till next day; I laid in the bottom of the boat all night, till next day, when I told Jackson I wished to be put on board my ship again; he said it was impossible; I was landed on the Spanish main, and when I got back, the ship was gone; I delivered myself up to the Spanish Consul, and said I had the mate's watch, and delivered it up. I knew nothing of its being taken from the ship till next day.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18411129-name-1560" type="witnessName">
+                                <interp inst="t18411129-name-1560" type="gender" value="male"/>
+                                <interp inst="t18411129-name-1560" type="surname" value="TEMPERLEY"/>
+                                <interp inst="t18411129-name-1560" type="given" value="JOHN"/>JOHN TEMPERLEY</persName> </hi>
+                        <hi rend="italic">re-examined</hi>. I first heard of them about the 18th of May—the boat was taken between the 11th and 16th—I heard nothing of them till they got to Cork, but they were arrested by the Consul—Jack
+                        <lb/>son was also arrested, and broke out of prison.</p>
+                    <p>
+                        <hi rend="italic">Q.</hi> Was there any allowance on board to make him intoxicated?
+                        <hi rend="italic">A.</hi> The only complaint in the ship was for the want of that allowance—I do not know how the prisoners were taken.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18411129-name-1561" type="witnessName">
+                                <interp inst="t18411129-name-1561" type="gender" value="male"/>
+                                <interp inst="t18411129-name-1561" type="surname" value="JEFFERSON"/>
+                                <interp inst="t18411129-name-1561" type="given" value="SAMUEL"/>SAMUEL JEFFERSON</persName> </hi>
+                        <hi rend="italic">re-examined</hi>. Thomas was perfectly sober at eleven o'clock at night, and there was no means of his getting any thing after-wards—Jackson was not so powerful a man as Thomas—he had been sick with ague.</p>
+                    <p>
+                        <hi rend="italic">Thomas</hi>. I had one bottle of brandy, and one of rum given me by Williams and a boy on board besides, they had some gin in a bowl three parts full.</p>
+                    <p>
+                        <hi rend="largeCaps">THOMAS—
+                            <rs id="t18411129-297-verdict-1" type="verdictDescription">
+                                <interp inst="t18411129-297-verdict-1" type="verdictCategory" value="guilty"/>
+                                <interp inst="t18411129-297-verdict-1" type="verdictSubcategory" value="no_subcategory"/>GUILTY</rs> </hi>. Aged 22.</p>
+                    <p>
+                        <hi rend="largeCaps">M'CLIVE—
+                            <rs id="t18411129-297-verdict-1" type="verdictDescription">
+                                <interp inst="t18411129-297-verdict-1" type="verdictCategory" value="guilty"/>
+                                <interp inst="t18411129-297-verdict-1" type="verdictSubcategory" value="no_subcategory"/>GUILTY</rs> </hi>. Aged 21.</p>
+                    <p>
+                        <rs id="t18411129-297-punishment-256" type="punishmentDescription">
+                            <interp inst="t18411129-297-punishment-256" type="punishmentCategory" value="imprison"/>
+                            <interp inst="t18411129-297-punishment-256" type="punishmentSubcategory" value="no_subcategory"/>
+                            <join result="defendantPunishment" targOrder="Y" targets="def1-297-18411129 t18411129-297-punishment-256"/>
+                            <join result="defendantPunishment" targOrder="Y" targets="def2-297-18411129 t18411129-297-punishment-256"/>Confined Twelve Months</rs>.</p> </div1></div0>
+        </body>
+    </text>
+</TEI.2>
