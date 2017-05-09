@@ -1,0 +1,78 @@
+/* These comments will get jumbled in the final .css. See _helpingMixins.scss for context. */
+/* These examples are from: https://css-tricks.com/snippets/sass/centering-mixin/ */
+
+@mixin centerer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* Let's get fancier */
+
+@mixin fancy-centerer($horizontal: true, $vertical: true) {
+  position: absolute;
+  @if ($horizontal and $vertical) {
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  } @else if ($horizontal) {
+    left: 50%;
+    transform: translate(-50%, 0);
+  } @else if ($vertical) {
+    top: 50%;
+    transform: translate(0, -50%);
+  }
+}
+
+/* All right, cool. But we can use variables with our mixins for templating */
+/* We can even store those variables in another file for re-use... use this wisely. */
+/* Check out ~/Class/Sass/utilities/_globals.scss */
+
+@mixin linx ($link, $visit, $hover, $active){
+  a {
+    color: $link;
+    &:visited {
+      color: $visit;
+    }
+    &:hover {
+      color: $hover;
+    }
+    &:active {
+      color: $active;
+    }
+  }
+}
+
+/*Sometimes, mixins are overused. Here's a good one: */
+
+@mixin rounded-corner($arc) {
+    -moz-border-radius: $arc;
+    -webkit-border-radius: $arc;
+    border-radius: $arc;
+}
+
+/* Here's a bad one. Why?
+
+@mixin cta-button {
+    padding: 10px;
+    color: #fff;
+    background-color: red;
+    font-size: 14px;
+    width: 150px;
+    margin: 5px 0;
+    text-align: center;
+    display: block;
+}
+
+*/
+/* How about this... */
+@mixin  btn-background($btn-background) {
+    @extend %btn;
+    background-color: $btn-background;
+    &:hover {
+        background-color: lighten($btn-background,10%);
+    }
+}
+
+/* Right, it takes no arguments. Check out helpers.scss for another way to use it. */

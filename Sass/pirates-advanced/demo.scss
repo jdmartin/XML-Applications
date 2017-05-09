@@ -1,0 +1,130 @@
+/* We can reference the parent with a simple '&' */
+
+.block {
+  &.red {
+      color: red;
+  }
+}
+
+
+/* Or, we can put it after the selector. Consider this case of IE life support */
+
+.block{
+  .ie7 &.red{
+      color: green;
+  }
+}
+
+/*
+You can interpolate variables inside your sass code, too.
+Variables are often at the head for tidyness, but they don't need to go there.
+The only requirement is that the variable definition must precede its use.
+*/
+$el : "post";
+
+.#{$el} {
+    background: blue;
+    & .#{$el}__title {
+        background: red;
+    }
+}
+
+/* Ok, you can pass code blocks to your mixins, too... This is a little esoteric */
+
+@mixin you-can-do-it {
+    @content;
+}
+
+@include you-can-do-it {
+  .yes-you-can { color: red }
+}
+
+/* Why in the Hell would I do that, you ask?  Consider this: */
+
+@mixin fight-with($monster) {
+  @if $monster == mechagodzilla {
+    .post__title{ &:after { @content } }
+  }
+  @else if $monster == spacegodzilla {
+    @content;
+  }
+}
+
+.post--mechagodzilla {
+  @include fight-with(mechagodzilla) { content: 'fight with lightning' }
+}
+.post--spacegodzilla {
+  @include fight-with(spacegodzilla) { content: 'fight with Armageddon'; .post_title:after{ content: ":)"} }
+}
+
+/* Did you see that @if / @else statement?  Rad, right?  We can make case-specific statements... */
+
+/* Ok, but what if I want to write some placeholder code that I might use, but don't want to show up in the .css file I output? I got you. */
+
+%post-skeletor{
+    font:{ size: 12; weight: 700;}
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid whitesmoke;
+}
+
+.post-class {
+    font:{ size: 12; weight: 700;}
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid whitesmoke;
+}
+
+.post1--extends__placeholder {
+    @extend %post-skeletor;
+    background: yellow;
+}
+
+.post1--extends_class{
+    @extend .post-class;
+    background: yellow;
+}
+
+/*
+Sass has a build in set of functions some of them are related to color, some of them are related to strings and some of them are related to numbers.
+The full list of functions is here: https://github.com/sass/sass/blob/stable/lib/sass/script/functions.rb
+*/
+.post--big{
+  width: percentage(.5);
+  font-size: max(12px, 14px, 16px);
+  background: rgba(231, 0.8, 2, .8);
+}
+
+$title: 'This is title';
+.post__title{
+  content: quote($title);
+}
+
+/* Ok, cool, I guess. But I want to make my own functions because I'm 1337... I got you. */
+@function double($variable){
+ @return $variable *2;
+}
+
+.post{
+  font-size: double(2px);
+}
+
+/* OK, we can use lists to do things in Sass, but they're a bit boring by default */
+$font-list: Helvetica, Arial, sans-serif;
+
+.post {
+    font-family: $font-list;
+}
+
+/* cool. But hold on to your butts...
+However when combined with list functions (join, length, nth, append) and @each, things get more interesting.
+A perfect example for list usage is deploying different sprite icons.
+*/
+
+$icons: smile, poop, godzilla;
+
+@each $icon in $icons {
+  .icon-#{$icon} { background-image: url('/icons/#{$icon}.png') }
+}

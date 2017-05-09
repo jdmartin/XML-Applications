@@ -1,0 +1,7 @@
+@mixin  btn-background($btn-background) {
+    @extend %btn;
+    background-color: $btn-background;
+    &:hover {
+        background-color: lighten($btn-background,10%);
+    }
+}

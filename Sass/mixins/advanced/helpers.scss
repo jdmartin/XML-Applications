@@ -1,0 +1,69 @@
+@import 'centerer';
+@import 'fancyCenterer';
+@import 'linx';
+@import 'roundedCorner';
+@import 'btnBackground';
+@import '../utilities/globals';
+
+div {
+    @include centerer;
+
+    .fancy {
+        @include fancy-centerer;
+    }
+}
+
+@include linx($link, $visit, $hover, $active);
+
+$one: "#00ff00";
+$two: "#0fa000";
+$three: "#0F1E71";
+$four: "#BB7737";
+
+
+@include linx($one, $two, $three, $four);
+
+.tab-button {
+     @include rounded-corner(5px);
+}
+
+.cta-button {
+     @include rounded-corner(8px);
+}
+
+%btn {
+    padding: 10px;
+    color:#fff;
+    curser: pointer;
+    border: none;
+    shadow: none;
+    font-size: 14px;
+    width: 150px;
+    margin: 5px 0;
+    text-align: center;
+    display: block;
+}
+
+.cta-btn-better {
+    @include btn-background(green);
+}
+
+.main-btn-better {
+    @include btn-background(orange);
+}
+
+.info-btn-better {
+    @include btn-background(blue);
+}
+
+@function calculate-width ($col-span) {
+    @return 100% / $col-span
+}
+
+.span-two {
+    width: calculate-width(2); // spans 2 columns, width = 50%
+}
+
+.span-three {
+    width: calculate-width(3); // spans 3 columns, width = 33.3%
+}
