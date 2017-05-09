@@ -1,0 +1,41 @@
+/*
+The Left Panel and its Parts
+*/
+#leftPanel {
+  width:20%;
+  float:left;
+  height:100%;
+  position:fixed;
+  background-color: #fff;
+}
+
+#leftPanel > div:first-of-type {
+  margin: 0 12%;
+  padding: 20% 0;
+}
+
+ul.nav-menu {
+  border-bottom: 1px solid rgba(51,51,51,0.1);
+}
+.nav-menu li {
+  border-top: 1px solid rgba(51,51,51,0.1);
+}
+
+#leftPanel .nav-menu a {
+  margin: 5% 5% 5% 20%;
+  display: block;
+}
+
+#title h1 {
+  font-weight: 400;
+  line-height: 0.9em;
+}
+
+#title p {
+  margin-top:8px;
+  color: #777;
+}
+
+#leftPanel p {
+  margin: 5% 5% 5% 10%;
+}
