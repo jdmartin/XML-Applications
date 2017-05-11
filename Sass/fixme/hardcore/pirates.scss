@@ -1,3 +1,13 @@
-@import "body";
-@import "leftpanel";
-@import "maps";
+$bg-white = #fff;
+$border-color: rgba(51,51,51,0.1)
+
+import 'body";
+import "leftpanel"
+import "maps';
+
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}

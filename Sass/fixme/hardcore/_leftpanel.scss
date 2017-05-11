@@ -6,7 +6,11 @@ The Left Panel and its Parts
   float:left;
   height:100%;
   position:fixed;
-  background-color: #fff;
+  background-color: $bg-white;
+
+  p 
+    margin: 5% 5% 5% 10%;
+  }
 }
 
 #leftPanel > div:first-of-type {
@@ -15,10 +19,11 @@ The Left Panel and its Parts
 }
 
 ul.nav-menu {
-  border-bottom: 1px solid rgba(51,51,51,0.1);
+  border-bottom: 1px solid $border-color;
 }
 .nav-menu li {
-  border-top: 1px solid rgba(51,51,51,0.1);
+  border-top: 1px solid $border-color;
+  @include border-radius();
 }
 
 #leftPanel .nav-menu a {
@@ -34,8 +39,4 @@ ul.nav-menu {
 #title p {
   margin-top:8px;
   color: #777;
-}
-
-#leftPanel p {
-  margin: 5% 5% 5% 10%;
 }

@@ -31,14 +31,14 @@ The Central Page and its Parts
 
 /*The Main Nav Header*/
 #header {
-  background-color:#fff;
+  background-color: $bg-white;
 }
 
 #header>ul>li:last-of-type {
-  border-right: 1px solid rgba(51,51,51,0.1)
+  border-right: 1px solid $border-color;
 }
 #header>ul>li {
-  border-left: 1px solid rgba(51,51,51,0.1)
+  border-left: 1px solid $border-color;
 }
 #header ul li {
   display:inline-block;
@@ -53,16 +53,22 @@ ul.sub-menu {
   position: absolute;
   z-index: 99;
   visibility: hidden;
-  background-color: #fff;
+  background-color: $bg-white;
   top:100%;
   left:0px;
   /*box-shadow and fade effects*/
-  box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+  box-shadow: 0 3px 6px $border-color;
 }
 
 ul.sub-menu {
   -moz-transition: all .5s ease-in-out;
   transition: all .5s ease-in-out;
+
+  a {
+    width:100%;
+    padding: 15px 15px 15px;
+    display: block;
+  
 }
 
 li:hover ul.sub-menu {
@@ -75,12 +81,7 @@ li:hover ul.sub-menu {
   text-align: left;
   border-top: 1px solid rgba(51,51,51,0.1);
   padding:0;
-  background-color: #fff;
-}
-ul.sub-menu a {
-  width:100%;
-  padding: 15px 15px 15px;
-  display: block;
+  background-color: $bg-white;
 }
 
 /*The Container of the Main Area*/
@@ -90,7 +91,7 @@ ul.sub-menu a {
 
 /*For the Page Area*/
 .entry, #map-page {
-  background-color: #fff;
+  background-color: $bg-white;
   margin-left:4px;
   margin-bottom:4px;
   background-image: url('http://www.oldbaileyonline.org/static/images/trial_scene_large.jpg');
@@ -112,7 +113,7 @@ a.post-thumbnail {
 
 .entry-text {
   opacity: 0.8;
-  background-color: #fff;
+  background-color: $bg-white;
   padding: 10px 20px;
   height:200px;
 }
@@ -140,4 +141,10 @@ a:hover {
 
 .empty {
   height:450px;
+}
+
+$icons: smile, poop, godzilla;
+
+@each $icon in $icons {
+  .icon-{$icon} { background-image: url('/icons/#{$icon}.png') }
 }
