@@ -31,14 +31,10 @@ The Central Page and its Parts
 
 /*The Main Nav Header*/
 #header {
-  background-color:#fff;
-}
-
-#header>ul>li:last-of-type {
-  border-right: 1px solid rgba(51,51,51,0.1)
+  background-color: $bgcolor;
 }
 #header>ul>li {
-  border-left: 1px solid rgba(51,51,51,0.1)
+  border-left: 1px solid $border-color;
 }
 #header ul li {
   display:inline-block;
@@ -46,7 +42,11 @@ The Central Page and its Parts
   text-align: center;
   padding:20px;
   position: relative;
-}
+
+  :last-of-type {
+    border-right: 1px solid $border-color;
+
+ }
 
 /*For disappearing drop-down menus*/
 ul.sub-menu {
@@ -73,7 +73,7 @@ li:hover ul.sub-menu {
   display:block;
   min-width:200%;
   text-align: left;
-  border-top: 1px solid rgba(51,51,51,0.1);
+  border-top: 1px solid $border-color;
   padding:0;
   background-color: #fff;
 }
