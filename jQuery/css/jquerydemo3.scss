@@ -1,0 +1,46 @@
+#content {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+}
+
+#main {
+    background-color: black;
+    color: white;
+}
+
+.invert {
+    color: white;
+    background-color: black;
+}
+
+#nav {
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+    &.active {
+        background-color: white;
+        color: black;
+    }
+}
+
+#footer {
+    background: #C4F6C6;
+    color: #E73BB1;
+    text-align:center;
+    top: 80%;
+    transform: translate(0, -80%);
+
+
+    a {
+        color: #FFB801
+    }
+}
+
+.secret {
+    display: none;
+}

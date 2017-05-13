@@ -1,8 +1,6 @@
 $(document).ready(function() {
 
-    $('#button1').click(function() {
-        $('#nav').toggleClass('active');
-    });
+    $('div').on('click', '#button1', paintIt);
 
     $('div').on('click', '#button2', editList);
 
@@ -37,6 +35,24 @@ $(document).ready(function() {
             });
         }
     });
+
+    function paintIt() {
+        if ($.trim($(this).text()) === 'Paint It') {
+            $(this).text('Unpaint It');
+        }
+        $('link[href="css/jquerydemo2.css"]').attr('href','css/jquerydemo3.css');
+        $("button#button1").off('click').on('click', unpaintIt);
+        return false;
+    }
+
+    function unpaintIt() {
+        if ($.trim($(this).text()) === 'Unpaint It') {
+            $(this).text('Paint It');
+        } 
+        $('link[href="css/jquerydemo3.css"]').attr('href','css/jquerydemo2.css');
+        $("button#button1").off('click').on('click', paintIt);
+        return false;
+    }
 
     function addListItems() {
         var formInput = $('input[type="text"]').val() // Get value of textarea
@@ -102,7 +118,7 @@ $(document).ready(function() {
             var insertBoxes = '<input type="checkbox" name="' + index + '"> ';
             $('ul#original li').eq(index).prepend(insertBoxes);
         });
-        
+
         $('input[type="checkbox"]').click(function() {
             var removeItem = $(this).attr("name");
             $('ul#original li').eq(removeItem).remove();
