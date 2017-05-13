@@ -1,23 +1,18 @@
 $(document).ready(function() {
+
     $('#button1').click(function() {
         $('#nav').toggleClass('active');
     });
 
-    $('#button2').click(function() {
-        $('#second ul li:nth-child(1)').toggleClass('invert');
-    });
+    $('div').on('click', '#button2', editList);
 
-    $('#button3').on('click', swapDivs);
+    $('div').on('click', '#button3', swapDivs);
 
-    $('#button4').on('click', forValhallaClick);
+    $('div').on('click', '#button4', forValhallaClick);
 
-    $("button#button5").on('click', apertureScience);
+    $("div").on('click', 'button#button5', apertureScience);
 
-    $("button#button6").click(function() {
-        var formInput = $( 'input[type="text"]' ).val() // Get value of textarea
-        var replacementVal = '<li>' + formInput + '</li>'
-        $('#second ul').append(replacementVal);
-    });
+    $("div").on('click', 'button#button6', addListItems);
 
 
     jQuery.fn.extend({
@@ -43,7 +38,16 @@ $(document).ready(function() {
         }
     });
 
+    function addListItems() {
+        var formInput = $('input[type="text"]').val() // Get value of textarea
+        var replacementVal = '<li>' + formInput + '</li>'
+        $('ul#original').append(replacementVal);
+        return false;
+    }
+
     function swapDivs() {
+        $('input[type="checkbox"]').remove();
+
         var second = $("#second").html();
         var third = $("#third").html();
         $("#second").html(third);
@@ -53,6 +57,8 @@ $(document).ready(function() {
     }
 
     function unswapDivs() {
+        $('input[type="checkbox"]').remove();
+
         var second = $("#second").html();
         var third = $("#third").html();
         $("#second").html(third);
@@ -62,13 +68,13 @@ $(document).ready(function() {
     }
 
     function forValhallaClick() {
-        $('#second ul li:nth-child(1)').text('Legends never die. <blink> 4 eva!').blink({color:'white'}, {color:'black'}, 100);
+        $('ul#original li:nth-child(1)').text('Legends never die. <blink> 4 eva!').blink({color:'white'}, {color:'black'}, 100);
         $("button#button4").off('click').on('click', ragnarokClick);
         return false;
     }
 
     function ragnarokClick() {
-        $('#second ul li:nth-child(1)').text('One').blink({color:'black'},{color:'black'},0);
+        $('ul#original li:nth-child(1)').text('One').blink({color:'black'},{color:'black'},0);
         $("button#button4").off('click').on('click', forValhallaClick);
         return false;
     }
@@ -87,5 +93,20 @@ $(document).ready(function() {
         $('#footer p').text('I\'m still the footer');
         $("button#button5").off('click').on('click', apertureScience);
         return false;
+    }
+
+    function editList() {
+        $('input[type="checkbox"]').remove();
+
+        $("ul#original li").each(function(index) {
+            var insertBoxes = '<input type="checkbox" name="' + index + '"> ';
+            $('ul#original li').eq(index).prepend(insertBoxes);
+        });
+        
+        $('input[type="checkbox"]').click(function() {
+            var removeItem = $(this).attr("name");
+            $('ul#original li').eq(removeItem).remove();
+            editList();
+        });
     }
 });
