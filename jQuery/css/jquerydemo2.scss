@@ -1,0 +1,43 @@
+@mixin fancy-centerer($horizontal: true, $vertical: true) {
+  position: absolute;
+  @if ($horizontal and $vertical) {
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+  } @else if ($horizontal) {
+    left: 50%;
+    transform: translate(-50%, 0);
+  } @else if ($vertical) {
+    top: 20%;
+    transform: translate(0, -20%);
+  }
+}
+
+#content {
+    @include fancy-centerer;
+}
+
+.invert {
+    color: white;
+    background-color: black;
+}
+
+#nav {
+    background-color: black;
+    color: white;
+
+    &.active {
+        background-color: white;
+        color: black;
+    }
+}
+
+#footer {
+    background: blue;
+    color: white;
+    text-align:center;
+
+    a {
+        color: #FFB801
+    }
+}

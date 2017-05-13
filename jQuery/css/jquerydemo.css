@@ -1,0 +1,25 @@
+#content {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -20%); }
+
+.invert {
+  color: white;
+  background-color: black; }
+
+#nav {
+  background-color: black;
+  color: white; }
+  #nav.active {
+    background-color: white;
+    color: black; }
+
+#footer {
+  background: blue;
+  color: white;
+  text-align: center; }
+  #footer a {
+    color: #FFB801; }
+
+/*# sourceMappingURL=jquerydemo.css.map */
