@@ -13,6 +13,13 @@ $(document).ready(function() {
 
     $("button#button5").on('click', apertureScience);
 
+    $("button#button6").click(function() {
+        var formInput = $( 'input[type="text"]' ).val() // Get value of textarea
+        var replacementVal = '<li>' + formInput + '</li>'
+        $('#second ul').append(replacementVal);
+    });
+
+
     jQuery.fn.extend({
         blink: function(params1, params2, timer) {
             return this.each(function() {
@@ -81,5 +88,4 @@ $(document).ready(function() {
         $("button#button5").off('click').on('click', apertureScience);
         return false;
     }
-
 });
