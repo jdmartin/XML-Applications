@@ -13,7 +13,7 @@ $(document).ready(function() {
 
     $('#button4').on('click', forValhallaClick);
 
-    $("button#button5").on('click', showNotesClick);
+    $("button#button5").on('click', apertureScience);
 
     jQuery.fn.extend({
         blink: function(params1, params2, timer) {
@@ -38,18 +38,6 @@ $(document).ready(function() {
         }
     });
 
-    function showNotesClick() {
-        $('#second ul li:nth-child(5)').text('I\'m in ur list, making it unreliable.');
-        $("button#button5").off('click').on('click', hideNotesClick);
-        return false;
-    }
-
-    function hideNotesClick() {
-        $('#second ul li:nth-child(5)').text('Five');
-        $("button#button5").off('click').on('click', showNotesClick);
-        return false;
-    }
-
     function forValhallaClick() {
         $('#second ul li:nth-child(1)').text('Legends never die. <blink> 4 eva!').blink({color:'white'}, {color:'black'}, 100);
         $("button#button4").off('click').on('click', ragnarokClick);
@@ -61,4 +49,21 @@ $(document).ready(function() {
         $("button#button4").off('click').on('click', forValhallaClick);
         return false;
     }
+
+    function apertureScience() {
+        $('#second').toggleClass('secret');
+        $('#secret').toggleClass('secret');
+        $('#footer p').text('The Cake Is A Lie.');
+        $("button#button5").off('click').on('click', theCakeIsALie);
+        return false;
+    }
+
+    function theCakeIsALie() {
+        $('#secret').toggleClass('secret');
+        $('#second').toggleClass('secret');
+        $('#footer p').text('I\'m still the footer');
+        $("button#button5").off('click').on('click', apertureScience);
+        return false;
+    }
+
 });

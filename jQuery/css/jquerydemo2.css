@@ -26,4 +26,10 @@
   #footer a {
     color: #FFB801; }
 
+.secret {
+  display: none; }
+
+.declassified {
+  display: inline; }
+
 /*# sourceMappingURL=jquerydemo2.css.map */
