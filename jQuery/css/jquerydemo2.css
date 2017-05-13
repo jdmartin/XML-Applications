@@ -8,9 +8,15 @@
   color: white;
   background-color: black; }
 
+.blink {
+  color: #FFF !important;
+  background: #FC79CE; }
+
 #nav {
   background-color: black;
-  color: white; }
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px; }
   #nav.active {
     background-color: white;
     color: black; }
@@ -18,7 +24,9 @@
 #footer {
   background: blue;
   color: white;
-  text-align: center; }
+  text-align: center;
+  top: 80%;
+  transform: translate(0, -80%); }
   #footer a {
     color: #FFB801; }
 

@@ -10,7 +10,9 @@
 
 #nav {
   background-color: black;
-  color: white; }
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px; }
   #nav.active {
     background-color: white;
     color: black; }
