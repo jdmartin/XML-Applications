@@ -7,9 +7,7 @@ $(document).ready(function() {
         $('#second ul li:nth-child(1)').toggleClass('invert');
     });
 
-    $('#button3').click(function() {
-        $('#second ul li:nth-child(3)').toggleClass('invert');
-    });
+    $('#button3').on('click', swapDivs);
 
     $('#button4').on('click', forValhallaClick);
 
@@ -37,6 +35,24 @@ $(document).ready(function() {
             });
         }
     });
+
+    function swapDivs() {
+        var second = $("#second").html();
+        var third = $("#third").html();
+        $("#second").html(third);
+        $("#third").html(second);
+        $("button#button3").off('click').on('click', unswapDivs);
+        return false;
+    }
+
+    function unswapDivs() {
+        var second = $("#second").html();
+        var third = $("#third").html();
+        $("#second").html(third);
+        $("#third").html(second);
+        $("button#button3").off('click').on('click', swapDivs);
+        return false;
+    }
 
     function forValhallaClick() {
         $('#second ul li:nth-child(1)').text('Legends never die. <blink> 4 eva!').blink({color:'white'}, {color:'black'}, 100);
