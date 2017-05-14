@@ -1,0 +1,30 @@
+<TEI.2>
+    <text>
+        <body>
+            <div0 id="18160529" type="sessionsPaper" fragment="yes">
+                <div1 type="trialAccount" id="t18160529-118">
+                    <xptr type="pageFacsimile" doc="181605290056"/>
+                    <xptr type="preceedingDiv" divtype="trialAccount" id="t18160529-117"/>
+                    <xptr type="followingDiv" divtype="trialAccount" id="t18160529-119"/>
+                    <interp inst="t18160529-118" type="collection" value="BAILEY"/>
+                    <interp inst="t18160529-118" type="year" value="1816"/>
+                    <interp inst="t18160529-118" type="uri" value="sessionsPapers/18160529"/>
+                    <interp inst="t18160529-118" type="date" value="18160529"/>
+                    <join result="criminalCharge" id="t18160529-118-off634-c790" targOrder="Y" targets="t18160529-118-defend1055 t18160529-118-off634 t18160529-118-verdict635"/>
+                    <p>593.
+                        <persName id="t18160529-118-defend1055" type="defendantName"> JOHN MACKAREL
+                            <interp inst="t18160529-118-defend1055" type="surname" value="MACKAREL"/>
+                            <interp inst="t18160529-118-defend1055" type="given" value="JOHN"/>
+                            <interp inst="t18160529-118-defend1055" type="gender" value="male"/> </persName> was
+                        <rs id="t18160529-118-off634" type="offenceDescription">
+                            <interp inst="t18160529-118-off634" type="offenceCategory" value="miscellaneous"/>
+                            <interp inst="t18160529-118-off634" type="offenceSubcategory" value="piracy"/> indicted for River Piracy </rs>.</p>
+                    <p>But the
+                        <rs id="t18160529-118-verdict635" type="verdictDescription">
+                            <interp inst="t18160529-118-verdict635" type="verdictCategory" value="notGuilty"/>
+                            <interp inst="t18160529-118-verdict635" type="verdictSubcategory" value="noProsecutor"/> prosecutor not appearing </rs>, the Jury found the prisoner</p>
+                    <p>NOT GUILTY.</p>
+                    <p>First Middlesex Jury, before Mr. Common Serjeant.</p> </div1></div0>
+        </body>
+    </text>
+</TEI.2>

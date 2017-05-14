@@ -1,0 +1,50 @@
+
+______INFO________
+This website was created by {insert your name here} for the workshop "An Introduction to XML for Historical and Literary Research," a two-part series offered at D-Lab, April 19 and 26, 2016.
+
+Materials from the Old Bailey Online and its partners are used for educational purposes only. All other parts of this site may be shared freely.
+
+_____LINKS________
+http://dlab.berkeley.edu/training/introduction-xml-historical-and-literary-research-2-part-series
+
+http://www.oldbaileyonline.org/
+
+_____Cases______
+Case 1:
+Richard Coyle
+24th February 1737
+CaseFiles/coyle-piracy1.gif
+
+Case 2:
+Edward Johnson, et al.
+24th February 1737
+Edward Johnson, Nicholas Williams, Lawrence Senett, Nicholas Wolf, Pierce Butler, John Bryan
+CaseFiles/johnson-piracy1.gif
+
+Case 3:
+John Mackarel
+29th May 1816
+Found not guilty because the prosecutor failed to appear in court.
+CaseFiles/mackarel-piracy.gif
+
+Case 4:
+George White and William Burwood
+17th August 1835
+Found not guilty.  No details are provided.
+CaseFiles/white-piracy.jpg
+
+Case 5:
+Levi Thomas and William M'Clive
+29th November 1841
+CaseFiles/mclive-piracy1.jpg
+
+Case 6:
+James Jennings Smith, et al.
+23rd October 1848
+James Jennings Smith, Alexander Reid, John James, David Gillies, James Payne, John Kelly, Robert Barclay, Edward Sorrell, John McDonald
+CaseFiles/smith-piracy1.jpg
+
+Case 7:
+Isaac Cooper, et al.
+5th April 1852
+CaseFiles/cooper-piracy1.jpg
