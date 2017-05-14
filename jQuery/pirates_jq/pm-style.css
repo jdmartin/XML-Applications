@@ -125,6 +125,18 @@ ul.sub-menu a {
   display: block;
 }
 
+.sticky {
+    position: fixed;
+    top: 0;
+    z-index: 100;
+    width: 99%;
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    padding:0;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
 /*The Container of the Main Area*/
 #container {
   margin-top: 4px;
@@ -211,3 +223,24 @@ a:hover {
   color:black;
   padding:6px 0;
 }
+
+#helpbox {
+  display: none;
+  color: white; }
+
+.helpactive {
+  position: fixed;
+  clear: both;
+  width: 40%;
+  padding-top: 0;
+  background-color: black;
+  color: white;
+  z-index: 1000; }
+  .helpactive b {
+    color: #9FBCD8; }
+  .helpactive ul li {
+    list-style-type: none;
+    color: white; }
+  .helpactive h1 {
+      color: white;
+  }

@@ -3,7 +3,9 @@
 <head>
   <title>Pirates of the Old Bailey ...an exercise in html</title>
   <meta charset="UTF-8" />
-  <link rel="stylesheet" href="pm-style.css" type="text/css" />
+  <link rel="stylesheet" href="pirates_jq/pm-style.css" type="text/css" />
+  <script src="js/jquery-3.2.1.min.js"></script>
+  <script src="pirates_jq/pirates.js"></script>
 </head>
 <body>
     <div id="leftPanel">
@@ -19,6 +21,7 @@
           <li><a href="">Maps</a></li>
           <li><a href="">Timeline</a></li>
           <li><a href="">Index</a></li>
+          <li><a href="" id="help">Help</a></li>
         </ul>
       </div>
       <div id="info">
@@ -31,7 +34,7 @@
     <div id="main">
       <div id="header">
         <ul class="top-menu">
-          <li><a href="pirates.html">Home</a></li>
+          <li><a href="three.html">Home</a></li>
           <li>Case List
             <ul class="sub-menu">
               <li><a href="">Richard Coyle</a></li>
@@ -47,6 +50,17 @@
         </ul>
       </div>
       <div id="container">
+          <div id="helpbox">
+              <ul>
+                  <h1>I'm a help box!</h1>
+                  <br />
+                  <ul>
+                      <li>Step 1: Buy some ice cream.</li>
+                      <li>Step 2: Buy some scotch.</li>
+                      <li>Step 3: Remember life is fleeting, and may be a simulation.</li>
+                  </ul>
+              </ul>
+          </div>
           <div id="map-page">
               <div id="map"></div>
               <!-- Scripts go here -->
