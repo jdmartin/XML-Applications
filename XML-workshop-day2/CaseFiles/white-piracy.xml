@@ -1,0 +1,36 @@
+<!-- © 2003-2008 Old Bailey Proceedings Online -->
+<TEI.2>
+    <text>
+        <body>
+            <div0 id="t18350817" type="sessionsPaper" fragment="yes">
+                <div1 type="trialAccount" id="t18350817-1926">
+                    <xptr type="pageFacsimile" doc="183508170220"/>
+                    <xptr type="preceedingDiv" divtype="trialAccount" id="t18350817-1925"/>
+                    <interp inst="t18350817-1926" type="uri" value="sessionsPapers/18350817"/>
+                    <interp inst="t18350817-1926" type="date" value="18350817"/>
+                    <join result="criminalCharge" id="t18350817-1926-charge-1" targOrder="Y" targets="def1-1926-18350817 t18350817-1926-offence-1 t18350817-1926-verdict-1"/>
+                    <join result="criminalCharge" id="t18350817-1926-charge-2" targOrder="Y" targets="def2-1926-18350817 t18350817-1926-offence-1 t18350817-1926-verdict-1"/>
+                    <p>1926.
+                        <persName id="def1-1926-18350817" type="defendantName">
+                            <interp inst="def1-1926-18350817" type="gender" value="male"/>
+                            <interp inst="def1-1926-18350817" type="surname" value="WHITE"/>
+                            <interp inst="def1-1926-18350817" type="given" value="GEORGE"/>
+                            <hi rend="largeCaps">GEORGE WHITE</hi> </persName> and
+                        <persName id="def2-1926-18350817" type="defendantName">
+                            <interp inst="def2-1926-18350817" type="gender" value="male"/>
+                            <interp inst="def2-1926-18350817" type="surname" value="BURWOOD"/>
+                            <interp inst="def2-1926-18350817" type="given" value="WILLIAM"/>
+                            <hi rend="largeCaps">WILLIAM BURWOOD</hi> </persName> were indicted for
+                        <rs id="t18350817-1926-offence-1" type="offenceDescription">
+                            <interp inst="t18350817-1926-offence-1" type="offenceCategory" value="miscellaneous"/>
+                            <interp inst="t18350817-1926-offence-1" type="offenceSubcategory" value="piracy"/> piracy.</rs> </p>
+                    <p>
+                        <hi rend="largeCaps">
+                            <rs id="t18350817-1926-verdict-1" type="verdictDescription">
+                                <interp inst="t18350817-1926-verdict-1" type="verdictCategory" value="notGuilty"/>
+                                <interp inst="t18350817-1926-verdict-1" type="verdictSubcategory" value=""/>NOT GUILTY</rs> </hi>.</p>
+                    <p>
+                        <hi rend="largeCaps">ADJOURNED TO THE TWENTY-FIRST OF SEPTEMBER</hi>.</p> </div1></div0>
+        </body>
+    </text>
+</TEI.2>

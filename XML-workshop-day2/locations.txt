@@ -1,0 +1,64 @@
+﻿Grimsby aka Great Grimsby
+WGS84 	53° 33′ 34.2″ N, 0° 4′ 4.8″ W
+53.5595000°, -000.0680000°
+
+London
+WGS84 	51° 30′ 26″ N, 0° 7′ 39″ W
+	51.5072222°, -000.1275000°
+
+Flamborough Head
+WGS84 	54° 6′ 57.56″ N, 0° 4′ 58.98″ W
+	54.1159889°, -000.0830500°
+
+Scarborough
+WGS84 	54° 16′ 38.28″ N, 0° 24′ 6.12″ W
+	54.2773000°, -000.4017000°
+
+New Dieppe
+as Dieppe: WGS84 	49° 55′ 12″ N, 1° 4′ 48″ E
+49.9200000°, 001.0800000°
+certainty: moderate
+
+Sunderland
+WGS84 	54° 54′ 36″ N, 1° 23′ 6″ W
+54.9100000°, -001.3850000°
+
+Holland ***
+WGS84 	52° 15′ 0″ N, 4° 40′ 1.2″ E
+	52.2500000°, 004.6670000°
+(approx. because more precise port info was not provided)
+[we could do a polygon... if there is time]
+
+Yarmouth
+as Great Yarmouth: WGS84 	52° 36′ 21.6″ N, 1° 43′ 44.4″ E
+	52.6060000°, 001.7290000°
+as Yarmouth, Isle of Wight: WGS84 	50° 42′ 17.28″ N, 1° 29′ 42″ W
+	50.7048000°, -001.4950000°
+
+Camperdown
+WGS84 	55° 2′ 33.48″ N, 1° 34′ 38.76″ W
+55.0426333°, -001.5774333°
+
+The Spurn Light
+as Spurn Point: WGS84 	53° 34′ 33.44″ N, 0° 6′ 41.23″ E
+53.5759556°, 000.1114528°
+
+The Humber: an estuary ***
+WGS84 	53° 32′ 33.72″ N, 0° 5′ 32.28″ E
+	53.5427000°, 000.0923000°
+
+Whitby-roads
+as Whitby: WGS84 	54° 29′ 8.88″ N, 0° 37′ 14.16″ W
+54.4858000°, -000.6206000°
+
+Thames Police Station
+as Wapping High St. Police Station
+lat long 51.503348, -0.058659
+
+*** These could also be represented as polygons.
+
+____OTHER LOCATIONS OF HISTORICAL INTEREST____
+(Great Northern Railway)
+(London Market)
+(the North Ground, 60 mi. from Grimsby)
+(the Lemon Light)

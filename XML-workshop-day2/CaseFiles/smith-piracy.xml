@@ -1,0 +1,106 @@
+<!-- © 2003-2008 Old Bailey Proceedings Online -->
+<TEI.2>
+    <text>
+        <body>
+            <div0 id="t18481023" type="sessionsPaper" fragment="yes">
+                <div1 type="trialAccount" id="t18481023-2400">
+                    <xptr type="pageFacsimile" doc="184810230160"/>
+                    <xptr type="preceedingDiv" divtype="trialAccount" id="t18481023-2399"/>
+                    <xptr type="followingDiv" divtype="trialAccount" id="t18481023-2401"/>
+                    <interp inst="t18481023-2400" type="uri" value="sessionsPapers/18481023"/>
+                    <interp inst="t18481023-2400" type="date" value="18481023"/>
+                    <join result="criminalCharge" id="t18481023-2400-charge-1" targOrder="Y" targets="def1-2400-18481023 t18481023-2400-offence-1 t18481023-2400-verdict-1"/>
+                    <join result="criminalCharge" id="t18481023-2400-charge-2" targOrder="Y" targets="def2-2400-18481023 t18481023-2400-offence-1 t18481023-2400-verdict-1"/>
+                    <join result="criminalCharge" id="t18481023-2400-charge-3" targOrder="Y" targets="def3-2400-18481023 t18481023-2400-offence-1 t18481023-2400-verdict-1"/>
+                    <join result="criminalCharge" id="t18481023-2400-charge-4" targOrder="Y" targets="def4-2400-18481023 t18481023-2400-offence-1 t18481023-2400-verdict-1"/>
+                    <join result="criminalCharge" id="t18481023-2400-charge-5" targOrder="Y" targets="def5-2400-18481023 t18481023-2400-offence-1 t18481023-2400-verdict-1"/>
+                    <join result="criminalCharge" id="t18481023-2400-charge-6" targOrder="Y" targets="def6-2400-18481023 t18481023-2400-offence-1 t18481023-2400-verdict-1"/>
+                    <join result="criminalCharge" id="t18481023-2400-charge-7" targOrder="Y" targets="def7-2400-18481023 t18481023-2400-offence-1 t18481023-2400-verdict-1"/>
+                    <join result="criminalCharge" id="t18481023-2400-charge-8" targOrder="Y" targets="def8-2400-18481023 t18481023-2400-offence-1 t18481023-2400-verdict-1"/>
+                    <join result="criminalCharge" id="t18481023-2400-charge-9" targOrder="Y" targets="def9-2400-18481023 t18481023-2400-offence-1 t18481023-2400-verdict-1"/>
+                    <p>2400.
+                        <hi rend="largeCaps">
+                            <persName id="def1-2400-18481023" type="defendantName">
+                                <interp inst="def1-2400-18481023" type="gender" value="male"/>
+                                <interp inst="def1-2400-18481023" type="surname" value="SMITH"/>
+                                <interp inst="def1-2400-18481023" type="given" value="JAMES JENNINGS"/>JAMES JENNINGS SMITH</persName>,
+                            <persName id="def2-2400-18481023" type="defendantName">
+                                <interp inst="def2-2400-18481023" type="gender" value="male"/>
+                                <interp inst="def2-2400-18481023" type="surname" value="REID"/>
+                                <interp inst="def2-2400-18481023" type="given" value="ALEXANDER"/> ALEXANDER REID</persName>,
+                            <persName id="def3-2400-18481023" type="defendantName">
+                                <interp inst="def3-2400-18481023" type="gender" value="male"/>
+                                <interp inst="def3-2400-18481023" type="surname" value="JAMES"/>
+                                <interp inst="def3-2400-18481023" type="given" value="JOHN"/> JOHN JAMES</persName>,
+                            <persName id="def4-2400-18481023" type="defendantName">
+                                <interp inst="def4-2400-18481023" type="gender" value="male"/>
+                                <interp inst="def4-2400-18481023" type="surname" value="GILLIES"/>
+                                <interp inst="def4-2400-18481023" type="given" value="DAVID"/> DAVID GILLIES</persName>,
+                            <persName id="def5-2400-18481023" type="defendantName">
+                                <interp inst="def5-2400-18481023" type="gender" value="male"/>
+                                <interp inst="def5-2400-18481023" type="surname" value="PAYNE"/>
+                                <interp inst="def5-2400-18481023" type="given" value="JAMES"/> JAMES PAYNE</persName>,
+                            <persName id="def6-2400-18481023" type="defendantName">
+                                <interp inst="def6-2400-18481023" type="gender" value="male"/>
+                                <interp inst="def6-2400-18481023" type="surname" value="KELLY"/>
+                                <interp inst="def6-2400-18481023" type="given" value="JOHN"/> JOHN KELLY</persName>,
+                            <persName id="def7-2400-18481023" type="defendantName">
+                                <interp inst="def7-2400-18481023" type="gender" value="male"/>
+                                <interp inst="def7-2400-18481023" type="surname" value="BARCLAY"/>
+                                <interp inst="def7-2400-18481023" type="given" value="ROBERT"/> ROBERT BARCLAY</persName>,
+                            <persName id="def8-2400-18481023" type="defendantName">
+                                <interp inst="def8-2400-18481023" type="gender" value="male"/>
+                                <interp inst="def8-2400-18481023" type="surname" value="SORRELL"/>
+                                <interp inst="def8-2400-18481023" type="given" value="EDWARD"/> EDWARD SORRELL</persName> </hi>, and
+                        <persName id="def9-2400-18481023" type="defendantName">
+                            <interp inst="def9-2400-18481023" type="gender" value="male"/>
+                            <interp inst="def9-2400-18481023" type="surname" value="MCDONALD"/>
+                            <interp inst="def9-2400-18481023" type="given" value="JOHN"/>
+                            <hi rend="largeCaps">JOHN MCDONALD</hi> </persName>, were in
+                        <lb/>dicted for
+                        <rs id="t18481023-2400-offence-1" type="offenceDescription">
+                            <interp inst="t18481023-2400-offence-1" type="offenceCategory" value="miscellaneous"/>
+                            <interp inst="t18481023-2400-offence-1" type="offenceSubcategory" value="piracy"/> that they being mariners on board the
+                            <hi rend="italic">Lion</hi>, on the High seas, feloniously and piratically did endeavour to make a revolt in the said ship.—2nd
+                            <hi rend="smallCaps">COUNT</hi>, for making a revolt.</rs> </p>
+                    <p>
+                        <hi rend="smallCaps">MESSRS. CLARKSON</hi>
+                        <hi rend="italic">and</hi>
+                        <hi rend="smallCaps">SLEIGH</hi>
+                        <hi rend="italic">conducted the Prosecution</hi>.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <persName id="t18481023-name-977" type="witnessName">
+                                <interp inst="t18481023-name-977" type="gender" value="male"/>
+                                <interp inst="t18481023-name-977" type="surname" value="NEVILLE"/>
+                                <interp inst="t18481023-name-977" type="given" value="HENRY WILLIAM"/>HENRY WILLIAM NEVILLE</persName> </hi>. I am master of the steam-ship
+                        <hi rend="italic">Lion</hi>, which trades between London and Friesland, in Holland—we left London on 13th Sept. last—the vessel is from 600 to 700 tons, and has three masts—I took with me, as part of my crew, the whole of the prisoners—Smith's duty was to drive the engine as first engineer—he performed that duty for six months previously—Reid was second engineer—the duties of the other prisoners were that of firemen and coal-trimmers—I delivered the register-tickets to the British vice-consul, at Harlingen, in Friesland—I think they were produced before the Lord Mayor—I have not got them here—I did not place the</p>
+                    <xptr type="pageFacsimile" doc="184810230161"/>
+                    <p>names of these men on the muster-roll—we arrived at Harlingen on the morning of the 14th, and there took on board a general cargo, consisting of butter, cheese, flax, oil, 160 beasts, about 700 or 800 sheep, besides horses and calves—we were to be ready to leave Harlingen on the morning of the 16th, at nine o'clock—the fires had been lighted that morning for the purpose of starting on the voyage—I observed a quantity of poultry being brought on board in baskets—I inquired of two of the firemen to whom they belonged—one was Payne; I do not recollect who the other was—Smith, the first engineer, came on board afterwards—I observed him coming from the shore over the paddle-box—I walked on to the bridge close to where he was, and he came running up, and said, "You won't allow my poultry to come on board the ship, won't you?"—I said, "There are too many of them, I can't allow it"—he then shook his fist in my face, and said, "Then you b—r I will pay freight for them;" on which I said, "They shall not come on board at all"—he then turned round, and clapping his hands at me, said, "Now, you b—r, I have got you; this is what I have been scheming for you; I will stop the ship; I will learn you and your Mr. Robinson a trick"—he was not drunk—he then called out to the firemen below, "Rake the fires out, you b—r's! rake the fires out!" on which I said, "Smith, come here, and do not make a fool of yourself, and do that in a moment which you will be sorry for hereafter"—he said, "No, no, you b—r, I won't hear you," and ran off from the paddle-box on to the main-deck, calling out to the firemen again, "Rake out the fires, you b—r's! rake the fires out, and come ashore with me, and bring your things with you"—I then went aft into the cabin, and made a communication to the mate—I sent him forward to try and talk to the engineers for them to come aft to me—he went, and came aft again with a message—the men then went ashore—they returned once or twice, but did not resume their duty—I then went to the company's agent in Harlingen—before be came I was ashore, alongside the vessel, and Smith came up to me, and said, putting himself in a
+                        <hi rend="italic">sparring</hi> position, "I will fight you"—I said, "No, you won't"—he said, "You won't fight me?"—I said, "No"—he said, "Then you are a b----y coward"—I went on board, and shortly after that the agent came—I told him the circumstances—he tried to expos
+                        <lb/>tulate with Smith, and sent for Mr. Harlam—I stated the case to him, he being one of the head gentlemen of the place—he took Smith down the pier with him, and walked with him a quarter of an hour—he returned, and said, "I can do nothing with him; the man is raging for revenge"—I then sent for the British consul, and stated the facts to him—the men were then, some on the paddle-box, and some on one side of the vessel—Smith stood outside the cabin door, and I took the muster-roll, and read their names to them, and asked them, one by one, to return to their duty—M'Donald, one of the pri
+                        <lb/>soners, said he would stop on board the ship, and another man, named Rayner, said he would stop on board and do my orders—the others said they would not, unless Smith did—Smith said, "Hold your tongues! silence gives con
+                        <lb/>sent; the b—r will only catch you"—on that they went ashore, and loaded abuse on me, clapping their hands, and saying, "B----y Capt. Neville, why don't you take your ship away?" where is your b----y Mr. Robinson I and that sort of abuse was continued the whole afternoon, and I was afraid to go from the ship—Smith kept calling out, "You b----y thief!" and threatened to take the other men out of the ship that stopped to do their duty—M'Donald stopped on board about an hour, or a little more, and then they came and coaxed him away with the rest—he then took his things, and deserted me, and the only man left on board was Rayner—Gillies and James came several</p>
+                    <xptr type="pageFacsimile" doc="184810230162"/>
+                    <p>times to try and get him, and threatened they would murder him if he re
+                        <lb/>mained in the ship—I delivered the whole of their register-tickets to the British consul—about eleven o'clock he came, and said, "I think Smith will return now with the rest"—he did not return nor did any of them—I at last got a fresh crew—I had to hire another steamer, and leave that port for Am
+                        <lb/>sterdam, expecting to meet a ship there belonging to the same company, but she—had sailed the night before—I left at eight on the Saturday evening after having three interviews with the prisoners to see whether they would come or—I arrived at Amsterdam at five the next afternoon, and had to wait till five on Monday afternoon, and hire another steam-boat to convey me and an engineer back to Harlingen, to bring my cargo to London—the cargo was transhipped; the live-stock were obliged to be put into stalls or fields, and be kept at an expense to the owners till we started, and instead of my leav
+                        <lb/>ing Harlingen on the 16th, as I ought to have done, I was not able to leave till the 19th, and did not arrive here till the 20th; and according to the average passage I ought to have arrived on the Sunday afternoon, so as to enable the cattle and other goods to be at the Monday's market—I received a certificate from the Vice Consul.</p>
+                    <p>
+                        <hi rend="smallCaps">COURT</hi>.
+                        <hi rend="italic">Q.</hi> Before you sailed from London did you enter into an agree
+                        <lb/>ment, in writing, with Smith, or any of the other seamen, specifying what wages each seaman was to be paid?
+                        <hi rend="italic">A.</hi> I did not, nor the quantity of pro
+                        <lb/>vision he was to receive in the capacity in which he was to act (they had all acted in a certain capacity), or the nature of the voyage on which they were to be employed; no such agreement was entered into by me—I ordered my chief-mate to do so: he is here—it appears the agreement he entered into was not a regular one—I had their register-tickets in my possession on the voyage—I never entered into any such agreement.</p>
+                    <p>(
+                        <hi rend="italic">Upon this stale of facts the</hi>
+                        <hi rend="smallCaps">COURT</hi>
+                        <hi rend="italic">was of opinion that the prisoners could not be deemed "mariners" within the meaning of the Act of Parliament; the captain having neglected to enter into the necessary agreement no trust was reposed in or accepted by them, nor were they legally bound to the discharge of any duty</hi>.</p>
+                    <p>
+                        <hi rend="smallCaps">
+                            <rs id="t18481023-2400-verdict-1" type="verdictDescription">
+                                <interp inst="t18481023-2400-verdict-1" type="verdictCategory" value="notGuilty"/>
+                                <interp inst="t18481023-2400-verdict-1" type="verdictSubcategory" value=""/>NOT GUILTY</rs> </hi>.</p> </div1></div0>
+        </body>
+    </text>
+</TEI.2>
