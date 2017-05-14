@@ -1,21 +1,25 @@
-  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCZ83qOLWRt0RlJPsq7U85Ht9fGPP144Rk&sensor=false">
-  </script><!-- API key -->
-  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js">
-  </script>
-  <script type="text/javascript">   //initialize the map
-$(document).ready(
-  function initialize() {
-		var mapOptions = {
-			center: new google.maps.LatLng(52,1),
-			zoom: 7,
-			mapTypeId: google.maps.MapTypeId.TERRAIN
-		};
-		var map = new google.maps.Map(
-			document.getElementById("map"),
-			mapOptions);
-    var locations = new google.maps.KmlLayer({
-      url: 'https://www.ocf.berkeley.edu/~spmcginnis/cooper-locations.kml'
+<script>
+var map;
+var src = 'https://www.ocf.berkeley.edu/~spmcginnis/cooper-locations.kml';
+
+function initMap() {
+    map = new google.maps.Map(document.getElementById('map'), {
+      center: new google.maps.LatLng(52, 1),
+      zoom: 2,
+      mapTypeId: 'terrain'
     });
-    locations.setMap(map);
-	});
-  </script>
+
+    var kmlLayer = new google.maps.KmlLayer(src, {
+      suppressInfoWindows: true,
+      preserveViewport: false,
+      map: map
+    });
+    kmlLayer.addListener('click', function(event) {
+      var content = event.featureData.infoWindowHtml;
+      var testimonial = document.getElementById('capture');
+      testimonial.innerHTML = content;
+    });
+  }
+</script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCGmWz1mpj0Awg6AblL8Sls4DQaoLN8NoY&callback=initMap">
+</script>
