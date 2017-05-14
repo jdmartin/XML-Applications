@@ -29,4 +29,19 @@ $(document).ready(function() {
         $("a#help").off('click').on('click', showHelpClick);
         return false;
     }
+
+    $("button#enbiggen").on('click', enbiggenMapClick);
+    function enbiggenMapClick () {
+        $('div#map').width('90%').height('70%');
+        initMap();
+        $("button#enbiggen").off('click').on('click', disEnbiggenMapClick);
+        return false;
+    }
+
+    function disEnbiggenMapClick () {
+        $('div#map').width('70%').height('50%');
+        initMap();
+        $("button#enbiggen").off('click').on('click', enbiggenMapClick);
+        return false;
+    }
 });
