@@ -1,92 +1,99 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <title>Pirates of the Old Bailey ...an exercise in html</title>
-  <meta charset="UTF-8" />
-  <link rel="stylesheet" href="pirates_jq/pm-style.css" type="text/css" />
-  <script src="js/jquery-3.2.1.min.js"></script>
-  <script src="pirates_jq/pirates.js"></script>
+    <title>Pirates of the Old Bailey ...an exercise in html</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="pirates_jq/pm-style.css" type="text/css" />
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="pirates_jq/pirates.js"></script>
 </head>
+
 <body>
     <div id="leftPanel">
-      <div id="title">
-        <h1>Pirates of the Old Bailey</h1>
-        <p>... an exercise in html</p>
-      </div>
-      <div id="menu">
-        <ul class="nav-menu">
-          <!-- later, files will be created to fill in these links, which can be used to illustrate KML and indexes -->
-          <li><a href="">Documents</a></li>
-          <li><a href="">People</a></li>
-          <li><a href="">Maps</a></li>
-          <li><a href="">Timeline</a></li>
-          <li><a href="">Index</a></li>
-          <li><a href="" id="help">Help</a></li>
-        </ul>
-      </div>
-      <div id="info">
-        <p>
-          This website was created by Scott Paul McGinnis for the workshop "<a href="http://dlab.berkeley.edu/training/introduction-xml-historical-and-literary-research-2-part-series">An Introduction to XML for Historical and Literary Research</a>," a two-part series offered at D-Lab, April 19 &amp; 26, 2016.
-        </p>
-        <p>Materials from <a href="http://www.oldbaileyonline.org/">the Old Bailey Online</a> and its partners are used for educational purposes only.  All other parts of this site may be shared freely.</p>
-      </div>
+        <div id="title">
+            <h1>Pirates of the Old Bailey</h1>
+            <p>... an exercise in html</p>
+        </div>
+        <div id="menu">
+            <ul class="nav-menu">
+                <!-- later, files will be created to fill in these links, which can be used to illustrate KML and indexes -->
+                <li><a href="">Documents</a></li>
+                <li><a href="">People</a></li>
+                <li><a href="">Maps</a></li>
+                <li><a href="">Timeline</a></li>
+                <li><a href="">Index</a></li>
+                <li><a href="" id="help">Help</a></li>
+            </ul>
+        </div>
+        <div id="info">
+            <p>
+                This website was created by Scott Paul McGinnis for the workshop "<a href="http://dlab.berkeley.edu/training/introduction-xml-historical-and-literary-research-2-part-series">An Introduction to XML for Historical and Literary Research</a>,"
+                a two-part series offered at D-Lab, April 19 &amp; 26, 2016.
+            </p>
+            <p>Materials from <a href="http://www.oldbaileyonline.org/">the Old Bailey Online</a> and its partners are used for educational purposes only. All other parts of this site may be shared freely.</p>
+        </div>
     </div>
     <div id="main">
-      <div id="header">
-        <ul class="top-menu">
-          <li><a href="three.html">Home</a></li>
-          <li>Case List
-            <ul class="sub-menu">
-              <li><a href="">Richard Coyle</a></li>
-              <li><a href="">Edward Johnson, et al.</a></li>
-              <li><a href="">John Mackarel</a></li>
-              <li><a href="">George White and William Burwood</a></li>
-              <li><a href="">Levi Thomas and William M'Clive</a></li>
-              <li><a href="">James Jennings Smith, et al.</a></li>
-              <li><a href="">Isaac Cooper, et al.</a></li>
+        <div id="header">
+            <ul class="top-menu">
+                <li><a href="three.html">Home</a></li>
+                <li>Case List
+                    <ul class="sub-menu">
+                        <li><a href="">Richard Coyle</a></li>
+                        <li><a href="">Edward Johnson, et al.</a></li>
+                        <li><a href="">John Mackarel</a></li>
+                        <li><a href="">George White and William Burwood</a></li>
+                        <li><a href="">Levi Thomas and William M'Clive</a></li>
+                        <li><a href="">James Jennings Smith, et al.</a></li>
+                        <li><a href="">Isaac Cooper, et al.</a></li>
+                    </ul>
+                </li>
+                <li><a href="">About</a></li>
+                <li><button id="enbiggen">Enbiggen the Map</button></li>
             </ul>
-          </li>
-          <li><a href="">About</a></li>
-          <li><button id="enbiggen">Enbiggen the Map</button></li>
-        </ul>
-      </div>
-      <div id="container">
-          <div id="helpbox">
-              <ul>
-                  <li><h1>I'm a help box!</h1></li>
-                  <li><br/></li>
-                  <ul>
-                      <li>Step 1: Buy some ice cream.</li>
-                      <li>Step 2: Buy some scotch.</li>
-                      <li>Step 3: Remember life is fleeting, and may be a simulation.</li>
-                  </ul>
-              </ul>
-          </div>
-          <div id="map-page">
-              <div id="map"></div>
-              <!-- Scripts go here -->
-              <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCZ83qOLWRt0RlJPsq7U85Ht9fGPP144Rk&sensor=false">
-              </script><!-- API key -->
-              <script type="text/javascript">   //initialize the map
-              $(document).ready(
-              function initialize() {
-                  var mapOptions = {
-                      center: new google.maps.LatLng(52,1),
-                      zoom: 7,
-                      mapTypeId: google.maps.MapTypeId.TERRAIN
-                  };
-                  var map = new google.maps.Map(
-                      document.getElementById("map"),
-                      mapOptions);
+        </div>
+        <div id="container">
+            <div id="helpbox">
+                <ul>
+                    <li>
+                        <h1>I'm a help box!</h1></li>
+                    <li><br/></li>
+                    <ul>
+                        <li>Step 1: Buy some ice cream.</li>
+                        <li>Step 2: Buy some scotch.</li>
+                        <li>Step 3: Remember life is fleeting, and may be a simulation.</li>
+                    </ul>
+                </ul>
+            </div>
+            <div id="map-page">
+                <div id="map"></div>
+                <!-- Scripts go here -->
+                <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCZ83qOLWRt0RlJPsq7U85Ht9fGPP144Rk&sensor=false">
+                </script>
+                <!-- API key -->
+                <script type="text/javascript">
+                    //initialize the map
+                    $(document).ready(
+                        function initialize() {
+                            var mapOptions = {
+                                center: new google.maps.LatLng(52, 1),
+                                zoom: 7,
+                                mapTypeId: google.maps.MapTypeId.TERRAIN
+                            };
+                            var map = new google.maps.Map(
+                                document.getElementById("map"),
+                                mapOptions);
 
-                  var locations = new google.maps.KmlLayer({
-                      url: 'https://www.ocf.berkeley.edu/~spmcginnis/cooper-locations.kml'
-                   });
-                  locations.setMap(map);
-                });
-              </script>
-          </div>
-      </div>
+                            var locations = new google.maps.KmlLayer({
+                                url: 'https://www.ocf.berkeley.edu/~spmcginnis/cooper-locations.kml'
+                            });
+                            locations.setMap(map);
+                        });
+                </script>
+            </div>
+        </div>
     </div>
 </body>
+
 </html>
