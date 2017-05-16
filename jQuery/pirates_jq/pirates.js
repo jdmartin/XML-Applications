@@ -4,8 +4,8 @@ $(document).ready(function() {
     if ($("#header").length > 0) {
         $(window).bind("load", function() {
             var $window = $(window),
-               $stickyEl = $('#header'),
-               elTop = $stickyEl.offset().top;
+                $stickyEl = $('#header'),
+                elTop = $stickyEl.offset().top;
 
             $window.scroll(function() {
                 $stickyEl.toggleClass('sticky', $window.scrollTop() > elTop);
@@ -14,7 +14,8 @@ $(document).ready(function() {
     }
 
     $("a#help").on('click', showHelpClick);
-    function showHelpClick () {
+
+    function showHelpClick() {
         $(this).toggleClass('showHelp');
         $('div#helpbox').show()
             .toggleClass('helpactive');
@@ -22,7 +23,7 @@ $(document).ready(function() {
         return false;
     }
 
-    function hideHelpClick () {
+    function hideHelpClick() {
         $(this).toggleClass('showHelp');
         $('div#helpbox').toggleClass('helpactive')
             .hide();
@@ -31,16 +32,27 @@ $(document).ready(function() {
     }
 
     $("button#enbiggen").on('click', enbiggenMapClick);
-    function enbiggenMapClick () {
-        $('div#map').width('90%').height('70%');
-        initMap();
+
+    function enbiggenMapClick() {
+        $('div#map').width("90%").height("70%");
+        var myEl = document.getElementById('map');
+
+        myEl.addEventListener('click', function() {
+            google.maps.event.trigger(map, "resize");
+        }, false);
+        $("button#enbiggen").text("Ensmallen the Map");
         $("button#enbiggen").off('click').on('click', disEnbiggenMapClick);
         return false;
     }
 
-    function disEnbiggenMapClick () {
-        $('div#map').width('70%').height('50%');
-        initMap();
+    function disEnbiggenMapClick() {
+        $('div#map').width("70%").height("50%");
+        var myEl = document.getElementById('map');
+
+        myEl.addEventListener('click', function() {
+            google.maps.event.trigger(map, "resize");
+        }, false);
+        $('button#enbiggen').text("Enbiggen the Map");
         $("button#enbiggen").off('click').on('click', enbiggenMapClick);
         return false;
     }
