@@ -48,15 +48,15 @@ $(document).ready(function() {
     function unpaintIt() {
         if ($.trim($(this).text()) === 'Unpaint It') {
             $(this).text('Paint It');
-        } 
+        }
         $('link[href="css/jquerydemo3.css"]').attr('href','css/jquerydemo2.css');
         $("button#button1").off('click').on('click', paintIt);
         return false;
     }
 
     function addListItems() {
-        var formInput = $('input[type="text"]').val() // Get value of textarea
-        var replacementVal = '<li>' + formInput + '</li>'
+        var formInput = $('input[type="text"]').val(); // Get value of textarea
+        var replacementVal = '<li>' + formInput + '</li>';
         $('ul#original').append(replacementVal);
         return false;
     }
@@ -98,7 +98,7 @@ $(document).ready(function() {
     function apertureScience() {
         $('#second').toggleClass('secret');
         $('#secret').toggleClass('secret');
-        $('#footer p').text('The Cake Is A Lie.');
+        $('#footer p').html('The Cake Is A Lie. Continue on to <a href="three.html">page three</a>');
         $("button#button5").off('click').on('click', theCakeIsALie);
         return false;
     }
@@ -106,7 +106,7 @@ $(document).ready(function() {
     function theCakeIsALie() {
         $('#secret').toggleClass('secret');
         $('#second').toggleClass('secret');
-        $('#footer p').text('I\'m still the footer');
+        $('#footer p').html('I\'m still the footer. Continue on to <a href="three.html">page three</a>');
         $("button#button5").off('click').on('click', apertureScience);
         return false;
     }
@@ -114,7 +114,8 @@ $(document).ready(function() {
     function editList() {
         $('input[type="checkbox"]').remove();
 
-        $("ul#original li").each(function(index) {
+        var $listItems = $("ul#original li");
+        $listItems.each(function(index) {
             var insertBoxes = '<input type="checkbox" name="' + index + '"> ';
             $('ul#original li').eq(index).prepend(insertBoxes);
         });
