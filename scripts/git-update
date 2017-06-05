@@ -1,0 +1,10 @@
+cd ~/Class/XML-Applications
+git pull
+cp -Rp ~/Class/XML-Applications/TEI-and-KML/* ~/Class/web_files/day2/
+cp -Rp ~/Class/XML-Applications/XML-and-HTML/* ~/Class/web_files/day1/
+cp -Rp ~/Class/XML-Applications/jQuery/* ~/Class/web_files/jQuery/
+cp -Rp ~/Class/XML-Applications/Sass/* ~/Class/web_files/Sass/
+cp -Rp ~/Class/XML-Applications/XPath/* ~/Class/web_files/XPath/
+cp -Rp ~/Class/XML-Applications/XQuery/* ~/Class/web_files/XQuery/
+echo "Updated!" | cowsay
+
