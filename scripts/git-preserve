@@ -1,0 +1,2 @@
+mkdir ~/Class/backup_of_web_files
+cp -Rp ~/Class/web_files ~/Class/backup_of_web_files
