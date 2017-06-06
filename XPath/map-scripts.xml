@@ -1,0 +1,22 @@
+<scripts>
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCZ83qOLWRt0RlJPsq7U85Ht9fGPP144Rk&amp;sensor=false">
+	</script><!-- API key -->
+	<script type="text/javascript">   //initialize the map
+	$(document).ready(
+	function initialize() {
+	    var mapOptions = {
+		center: new google.maps.LatLng(52,1),
+		zoom: 7,
+		mapTypeId: google.maps.MapTypeId.TERRAIN
+	    };
+	    var map = new google.maps.Map(
+		document.getElementById("map"),
+		mapOptions);
+
+	    var locations = new google.maps.KmlLayer({
+		url: 'https://www.ocf.berkeley.edu/~spmcginnis/cooper-locations.kml'
+	     });
+	    locations.setMap(map);
+	  });
+	</script>
+</scripts>
