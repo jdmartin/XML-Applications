@@ -1,0 +1,46 @@
+#!/bin/bash
+
+echo -e "Sorry that everything is broken.\n"
+
+echo "I can completely refresh your class files for you." 
+echo -e "Please note that this will erase everything to this point.\n" 
+
+echo -n "Are you sure you want to do this? [y/n]"
+read answer
+
+if [ $answer == 'y' ]; then
+  #Dump it like a body in a mob hit.
+  rm -rf ~/Class/web_files/*
+  rm -rf ~/Class/XML-Applications
+  
+  #Sync all the Things
+  cd ~/Class
+  git clone git@github.com:jdmartin/XML-Applications.git
+  mkdir ~/Class/web_files/day1
+  mkdir ~/Class/web_files/day2
+  mkdir ~/Class/web_files/XQuery
+  mkdir ~/Class/web_files/XPath
+  mkdir ~/Class/web_files/jQuery
+  mkdir ~/Class/web_files/Sass
+
+  #Make sure we're up-to-date, and everything is in its right place.
+  cd ~/Class/XML-Applications
+  git pull
+  cp -Rp ~/Class/XML-Applications/XML-workshop/* ~/Class/web_files/day1/
+  cp -Rp ~/Class/XML-Applications/XML-workshop-day2/* ~/Class/web_files/day2/
+  cp -Rp ~/Class/XML-Applications/jQuery/* ~/Class/web_files/jQuery/
+  cp -Rp ~/Class/XML-Applications/Sass/* ~/Class/web_files/Sass/
+  cp -Rp ~/Class/XML-Applications/XQuery/* ~/Class/web_files/XQuery/
+  cp -Rp ~/Class/XML-Applications/XPath/* ~/Class/web_files/XPath/
+  cp -p ~/Class/index.html.backup ~/Class/web_files/index.html
+
+  #Declare Victory
+  echo "Everything is fresh and new." | cowsay
+
+elif [ $answer == 'n' ]; then
+  echo -e "Countdown Averted. Missiles reset to standby.  DEF-CON 4.\n"
+
+else
+  echo -e "Sorry, that's not one of the choices. Try again, please.\n"
+  /usr/local/bin/git-everything-is-broken
+fi

@@ -1,0 +1,4 @@
+cd ~/Class
+git clone git@github.com:jdmartin/XML-Applications.git
+echo "All done!" | cowsay
+
